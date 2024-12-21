@@ -4,6 +4,9 @@
 
 ### BioChem 1 – COGNITY 
 
+**C.1.1: solids, liquids and gases**
+
+
 **C2. Atoms, elements and compounds**    
 •	C2.1 elements compounds and mixtures    
 •	C2.2 atomic structure and the periodic table    
@@ -24,8 +27,6 @@
 •	C9.2 uses of metals   
 •	C9.3 alloys and their propertie   
 
-
-C.1.1: solids, liquids and gases   
 C3.1 chemical formula    
 C7.1 properties of acids and base   
 
