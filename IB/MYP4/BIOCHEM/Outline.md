@@ -29,15 +29,14 @@ C7.1 properties of acids and base
 
 
 ## Unit 2 : Interactions 
-Date: December 2nd to December 20th
- Topics: food chains; webs
+Date: December 2nd to December 20th    
+ Topics: food chains; webs    
  Kognity:
- B15.1 energy flow
- B15.2 food chains and food webs
- B16.1 habitat destruction
- B16.2 conservation
- CK12:
- 12. ecology
+ B15.1 energy flow   
+ B15.2 food chains and food webs    
+ B16.1 habitat destruction    
+ B16.2 conservation    
+ CK12: 12. ecology
 
 ## Unit 3 : Cells & Systems 
 Date: January 6th to February 14th
