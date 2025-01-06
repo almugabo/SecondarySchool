@@ -41,8 +41,12 @@ Round each number to the specified number of significant figures:
 ----
 ### 4. Scientific Notation 
 
+**Error Analysis**
+
+A student wrote the number $$0.00000072$$ as $$7.2 \times 10^5$$. Explain the student's error and write the correct representation of the number in scientific notation.
 
 ----
+
 ### 5. First explain what it means "rationalize" and then rationalize the Denominator 
 
 Simplify the following expressions by rationalizing the denominator (show your work):
