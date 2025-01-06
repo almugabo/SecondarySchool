@@ -49,6 +49,8 @@ Now let's classify each of the given numbers:
     *   **(c) Symbol:** I, R
     *   **(Explanation):** It cannot be expressed as a simple fraction.
 
+---
+
 ## Question 2: Rules of Exponents
 
 This question focuses on the handy shortcuts we have when dealing with exponents. Remember that an exponent tells us how many times to multiply the base by itself (e.g., $a^n = a \times a \times a \times ...$  *n* times).
@@ -82,6 +84,8 @@ Let's go through each rule:
 7. **Zero Exponent:** Any non-zero number raised to the power of zero equals 1.
     *   **Formula:** $a^0 = 1$ (where $a \neq 0$)
     *   **Example:** $7^0 = 1$.
+
+---
 
 ## Question 3: Round to Significant Figures
 
@@ -120,7 +124,9 @@ Now let's apply these rules to the given numbers:
     2. The trailing zeros are ambiguous. To indicate that we are rounding to one significant figure, we use scientific notation.
     3. Rounded number: **3000 (or better written as 3 x 10<sup>3</sup>)**. Without scientific notation, it's difficult to know if the zeros are significant. Context often matters here.
 
-## Question 10: Error Analysis
+---
+
+## Question 4: Scientific Notation 
 
 Let's understand what scientific notation is first.
 
@@ -152,7 +158,10 @@ The student wrote 0.0000007285 as $7.2 \times 10^5$.
 
 Therefore, the correct representation is **$7.285 \times 10^{-7}$**.
 
-## FIRST EXPLAIN WHAT IT MEANS "RATIONALIZE"
+---
+## Question 6: Rationalizing the Denominator
+
+#### FIRST EXPLAIN WHAT IT MEANS "RATIONALIZE"
 
 Rationalizing the denominator means rewriting a fraction so that the denominator no longer contains any square roots (or other radicals). The goal is to eliminate the radical from the bottom of the fraction.
 
@@ -162,6 +171,210 @@ Rationalizing the denominator means rewriting a fraction so that the denominator
 *   It can make it easier to compare fractions or perform further calculations.
 
 The key technique involves multiplying the numerator and the denominator by a clever form of "1" that eliminates the radical in the denominator. This clever form is usually the radical itself, or its conjugate (more on that later).
+
+---
+
+## Question 6: 
+
+---
+
+## Question 7: solve this problem 
+
+This is the second question numbered 8, focusing on a physics concept.
+
+**Pre-requisite:** Understanding quadratic equations and how to solve them (finding the roots). The question provides a formula for the height of a ball over time. We need to find when the height is zero (when it hits the ground).
+
+**Problem:** A ball is thrown vertically upward, and its height in meters after 't' seconds is given by the equation $h = -5t^2 + 20t + 1$. Find the time it takes for the ball to reach the ground.
+
+1. **Understand the question:** The ball reaches the ground when its height (h) is 0.
+
+2. **Set up the equation:** We need to solve the quadratic equation $-5t^2 + 20t + 1 = 0$ for 't'.
+
+3. **Solve the quadratic equation:** We can use the quadratic formula:
+   For an equation $at^2 + bt + c = 0$, the solutions for 't' are given by:
+   $t = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+
+   In our equation, a = -5, b = 20, and c = 1.
+
+   *   **Substitute the values into the formula:**
+       $t = \frac{-20 \pm \sqrt{20^2 - 4(-5)(1)}}{2(-5)}$
+       $t = \frac{-20 \pm \sqrt{400 + 20}}{-10}$
+       $t = \frac{-20 \pm \sqrt{420}}{-10}$
+
+   *   **Simplify the square root (optional):** $\sqrt{420} = \sqrt{4 \times 105} = 2\sqrt{105}$
+
+   *   **Calculate the two possible values for t:**
+       $t_1 = \frac{-20 + 2\sqrt{105}}{-10} = 2 - \frac{\sqrt{105}}{5} \approx 2 - 2.049 \approx -0.049$
+       $t_2 = \frac{-20 - 2\sqrt{105}}{-10} = 2 + \frac{\sqrt{105}}{5} \approx 2 + 2.049 \approx 4.049$
+
+4. **Interpret the results:**
+   *   Time cannot be negative in this context, so $t_1$ is not a valid solution.
+   *   The positive value, $t_2 \approx 4.049$ seconds, represents the time it takes for the ball to reach the ground.
+
+5. **State the answer:** It takes approximately 4.049 seconds for the ball to reach the ground.
+
+
+---
+
+## Question 8: Expand and Show Your Work
+
+This question tests your understanding of how to multiply algebraic expressions. We'll use the distributive property (multiplying each term inside the parentheses by the term outside) and the FOIL method (First, Outer, Inner, Last) for multiplying binomials.
+
+**Pre-requisite:**  Remember the distributive property:  $a(b+c) = ab + ac$. For binomials $(a+b)(c+d)$, FOIL helps ensure all terms are multiplied: First terms ($a \times c$), Outer terms ($a \times d$), Inner terms ($b \times c$), Last terms ($b \times d$).
+
+Let's expand each expression:
+
+**a) -a(s + 20)**
+
+1. **Distribute -a:** Multiply -a by each term inside the parentheses.
+   -a * s = -as
+   -a * 20 = -20a
+2. **Expanded form:** -as - 20a
+
+**b) 4(c - 2)**
+
+1. **Distribute 4:** Multiply 4 by each term inside the parentheses.
+   4 * c = 4c
+   4 * -2 = -8
+2. **Expanded form:** 4c - 8
+
+**c) (x + 8)(x + 9)**
+
+1. **Use FOIL:**
+   *   **F**irst: x * x = x²
+   *   **O**uter: x * 9 = 9x
+   *   **I**nner: 8 * x = 8x
+   *   **L**ast: 8 * 9 = 72
+2. **Combine like terms:** x² + 9x + 8x + 72 = x² + 17x + 72
+3. **Expanded form:** x² + 17x + 72
+
+**d) (2x + 3)(x + 1)**
+
+1. **Use FOIL:**
+   *   **F**irst: 2x * x = 2x²
+   *   **O**uter: 2x * 1 = 2x
+   *   **I**nner: 3 * x = 3x
+   *   **L**ast: 3 * 1 = 3
+2. **Combine like terms:** 2x² + 2x + 3x + 3 = 2x² + 5x + 3
+3. **Expanded form:** 2x² + 5x + 3
+
+**e) Word Problem:**
+
+*   **A box has a length of (x + 5) cm and a width of (x - 3) cm.**
+
+    *   **a) Write an expression for the area of the box.**
+        *   **Recall the area formula for a rectangle:** Area = Length × Width
+        *   **Substitute the given expressions:** Area = (x + 5)(x - 3)
+        *   **Expression for the area:** (x + 5)(x - 3)
+
+    *   **b) Expand and simplify the expression.**
+        1. **Use FOIL (similar to part c and d):**
+           *   **F**irst: x * x = x²
+           *   **O**uter: x * -3 = -3x
+           *   **I**nner: 5 * x = 5x
+           *   **L**ast: 5 * -3 = -15
+        2. **Combine like terms:** x² - 3x + 5x - 15 = x² + 2x - 15
+        3. **Expanded and simplified expression:** x² + 2x - 15
+
+
+--- 
+## Question 9: Factorize
+
+Factorizing is the reverse of expanding. We want to rewrite an expression as a product of its factors.
+
+**Pre-requisite:**  Understanding how expansion works is crucial. We'll be looking for common factors and patterns like the difference of squares.
+
+Let's factorize each expression:
+
+**a) 14x + 21y**
+
+1. **Find the greatest common factor (GCF):** The GCF of 14 and 21 is 7.
+2. **Factor out the GCF:** Divide each term by the GCF and write it outside the parentheses.
+   14x ÷ 7 = 2x
+   21y ÷ 7 = 3y
+3. **Factored form:** 7(2x + 3y)
+
+**b) 5x² - 50**
+
+1. **Find the GCF:** The GCF of 5 and 50 is 5.
+2. **Factor out the GCF:**
+   5x² ÷ 5 = x²
+   -50 ÷ 5 = -10
+3. **Factored form:** 5(x² - 10)  *(Note: x² - 10 cannot be easily factored further using simple integer coefficients.)*
+
+**c) x² + 7x + 10**
+
+This is a quadratic expression. We need to find two numbers that:
+    *   Multiply to give the constant term (10).
+    *   Add up to give the coefficient of the x term (7).
+
+1. **Find the two numbers:** The numbers are 2 and 5 (because 2 × 5 = 10 and 2 + 5 = 7).
+2. **Write the factored form:** (x + 2)(x + 5)
+
+**d) x² - 49**
+
+This is in the form of the difference of squares: a² - b² = (a - b)(a + b)
+
+1. **Identify 'a' and 'b':** Here, a² = x², so a = x. And b² = 49, so b = 7.
+2. **Apply the difference of squares formula:** (x - 7)(x + 7)
+3. **Factored form:** (x - 7)(x + 7)
+
+---
+## Question 10: Parallel Lines
+
+This question is about understanding the relationship between the equations of parallel lines.
+
+**Pre-requisite:** Recall that parallel lines have the same slope. The slope-intercept form of a linear equation is y = mx + c, where 'm' is the slope and 'c' is the y-intercept.
+
+To determine if lines are parallel, we need to compare their slopes.
+
+**a) y = 2x + 1 and y = 2x - 4**
+
+1. **Identify the slopes:** Both equations are in slope-intercept form.
+   *   The slope of the first line is 2.
+   *   The slope of the second line is 2.
+2. **Compare the slopes:** The slopes are the same.
+3. **Conclusion:** The lines are parallel because they have the same slope.
+
+**b) $y = -x + 3$ and y = x - 3**
+
+1. **Rewrite the first equation in slope-intercept form:**  Divide both sides of $y = -x + 3$ by the coefficient of y, which is 1 (so it remains the same). The slope is -1.
+2. **Identify the slopes:**
+   *   The slope of the first line is -1.
+   *   The slope of the second line is 1.
+3. **Compare the slopes:** The slopes are different.
+4. **Conclusion:** The lines are not parallel because they have different slopes.
+
+**c) $y = 4x$ and y = 4x + 5**
+
+1. **Identify the slopes:** Both equations are in slope-intercept form.
+   *   The slope of the first line is 4.
+   *   The slope of the second line is 4.
+2. **Compare the slopes:** The slopes are the same.
+3. **Conclusion:** The lines are parallel because they have the same slope.
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Question 9: Rationalizing the Denominator
 
@@ -233,139 +446,7 @@ This one is a bit different because the denominator has two terms. Here, we use 
 8. Distribute $\sqrt{2}$ in the numerator (optional):
     $\frac{5\sqrt{2} - \sqrt{6}}{11}$
 
-## Question 4: Expand and Show Your Work
 
-This question tests your understanding of how to multiply algebraic expressions. We'll use the distributive property (multiplying each term inside the parentheses by the term outside) and the FOIL method (First, Outer, Inner, Last) for multiplying binomials.
-
-**Pre-requisite:**  Remember the distributive property:  $a(b+c) = ab + ac$. For binomials $(a+b)(c+d)$, FOIL helps ensure all terms are multiplied: First terms ($a \times c$), Outer terms ($a \times d$), Inner terms ($b \times c$), Last terms ($b \times d$).
-
-Let's expand each expression:
-
-**a) -a(s + 20)**
-
-1. **Distribute -a:** Multiply -a by each term inside the parentheses.
-   -a * s = -as
-   -a * 20 = -20a
-2. **Expanded form:** -as - 20a
-
-**b) 4(c - 2)**
-
-1. **Distribute 4:** Multiply 4 by each term inside the parentheses.
-   4 * c = 4c
-   4 * -2 = -8
-2. **Expanded form:** 4c - 8
-
-**c) (x + 8)(x + 9)**
-
-1. **Use FOIL:**
-   *   **F**irst: x * x = x²
-   *   **O**uter: x * 9 = 9x
-   *   **I**nner: 8 * x = 8x
-   *   **L**ast: 8 * 9 = 72
-2. **Combine like terms:** x² + 9x + 8x + 72 = x² + 17x + 72
-3. **Expanded form:** x² + 17x + 72
-
-**d) (2x + 3)(x + 1)**
-
-1. **Use FOIL:**
-   *   **F**irst: 2x * x = 2x²
-   *   **O**uter: 2x * 1 = 2x
-   *   **I**nner: 3 * x = 3x
-   *   **L**ast: 3 * 1 = 3
-2. **Combine like terms:** 2x² + 2x + 3x + 3 = 2x² + 5x + 3
-3. **Expanded form:** 2x² + 5x + 3
-
-**e) Word Problem:**
-
-*   **A box has a length of (x + 5) cm and a width of (x - 3) cm.**
-
-    *   **a) Write an expression for the area of the box.**
-        *   **Recall the area formula for a rectangle:** Area = Length × Width
-        *   **Substitute the given expressions:** Area = (x + 5)(x - 3)
-        *   **Expression for the area:** (x + 5)(x - 3)
-
-    *   **b) Expand and simplify the expression.**
-        1. **Use FOIL (similar to part c and d):**
-           *   **F**irst: x * x = x²
-           *   **O**uter: x * -3 = -3x
-           *   **I**nner: 5 * x = 5x
-           *   **L**ast: 5 * -3 = -15
-        2. **Combine like terms:** x² - 3x + 5x - 15 = x² + 2x - 15
-        3. **Expanded and simplified expression:** x² + 2x - 15
-
-## Question 5: Factorize
-
-Factorizing is the reverse of expanding. We want to rewrite an expression as a product of its factors.
-
-**Pre-requisite:**  Understanding how expansion works is crucial. We'll be looking for common factors and patterns like the difference of squares.
-
-Let's factorize each expression:
-
-**a) 14x + 21y**
-
-1. **Find the greatest common factor (GCF):** The GCF of 14 and 21 is 7.
-2. **Factor out the GCF:** Divide each term by the GCF and write it outside the parentheses.
-   14x ÷ 7 = 2x
-   21y ÷ 7 = 3y
-3. **Factored form:** 7(2x + 3y)
-
-**b) 5x² - 50**
-
-1. **Find the GCF:** The GCF of 5 and 50 is 5.
-2. **Factor out the GCF:**
-   5x² ÷ 5 = x²
-   -50 ÷ 5 = -10
-3. **Factored form:** 5(x² - 10)  *(Note: x² - 10 cannot be easily factored further using simple integer coefficients.)*
-
-**c) x² + 7x + 10**
-
-This is a quadratic expression. We need to find two numbers that:
-    *   Multiply to give the constant term (10).
-    *   Add up to give the coefficient of the x term (7).
-
-1. **Find the two numbers:** The numbers are 2 and 5 (because 2 × 5 = 10 and 2 + 5 = 7).
-2. **Write the factored form:** (x + 2)(x + 5)
-
-**d) x² - 49**
-
-This is in the form of the difference of squares: a² - b² = (a - b)(a + b)
-
-1. **Identify 'a' and 'b':** Here, a² = x², so a = x. And b² = 49, so b = 7.
-2. **Apply the difference of squares formula:** (x - 7)(x + 7)
-3. **Factored form:** (x - 7)(x + 7)
-
-## Question 7: Parallel Lines
-
-This question is about understanding the relationship between the equations of parallel lines.
-
-**Pre-requisite:** Recall that parallel lines have the same slope. The slope-intercept form of a linear equation is y = mx + c, where 'm' is the slope and 'c' is the y-intercept.
-
-To determine if lines are parallel, we need to compare their slopes.
-
-**a) y = 2x + 1 and y = 2x - 4**
-
-1. **Identify the slopes:** Both equations are in slope-intercept form.
-   *   The slope of the first line is 2.
-   *   The slope of the second line is 2.
-2. **Compare the slopes:** The slopes are the same.
-3. **Conclusion:** The lines are parallel because they have the same slope.
-
-**b) $y = -x + 3$ and y = x - 3**
-
-1. **Rewrite the first equation in slope-intercept form:**  Divide both sides of $y = -x + 3$ by the coefficient of y, which is 1 (so it remains the same). The slope is -1.
-2. **Identify the slopes:**
-   *   The slope of the first line is -1.
-   *   The slope of the second line is 1.
-3. **Compare the slopes:** The slopes are different.
-4. **Conclusion:** The lines are not parallel because they have different slopes.
-
-**c) $y = 4x$ and y = 4x + 5**
-
-1. **Identify the slopes:** Both equations are in slope-intercept form.
-   *   The slope of the first line is 4.
-   *   The slope of the second line is 4.
-2. **Compare the slopes:** The slopes are the same.
-3. **Conclusion:** The lines are parallel because they have the same slope.
 
 ## Question 8: Solve Following Problems and Show Your Work
 
@@ -437,37 +518,4 @@ Let's tackle these word problems systematically.
    *   Sum of angles: 108 + 72 = 180 (Correct)
    *   Difference: 108 - 72 = 36 (Correct)
 
-## Question 8: Solve This Problem
 
-This is the second question numbered 8, focusing on a physics concept.
-
-**Pre-requisite:** Understanding quadratic equations and how to solve them (finding the roots). The question provides a formula for the height of a ball over time. We need to find when the height is zero (when it hits the ground).
-
-**Problem:** A ball is thrown vertically upward, and its height in meters after 't' seconds is given by the equation $h = -5t^2 + 20t + 1$. Find the time it takes for the ball to reach the ground.
-
-1. **Understand the question:** The ball reaches the ground when its height (h) is 0.
-
-2. **Set up the equation:** We need to solve the quadratic equation $-5t^2 + 20t + 1 = 0$ for 't'.
-
-3. **Solve the quadratic equation:** We can use the quadratic formula:
-   For an equation $at^2 + bt + c = 0$, the solutions for 't' are given by:
-   $t = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
-
-   In our equation, a = -5, b = 20, and c = 1.
-
-   *   **Substitute the values into the formula:**
-       $t = \frac{-20 \pm \sqrt{20^2 - 4(-5)(1)}}{2(-5)}$
-       $t = \frac{-20 \pm \sqrt{400 + 20}}{-10}$
-       $t = \frac{-20 \pm \sqrt{420}}{-10}$
-
-   *   **Simplify the square root (optional):** $\sqrt{420} = \sqrt{4 \times 105} = 2\sqrt{105}$
-
-   *   **Calculate the two possible values for t:**
-       $t_1 = \frac{-20 + 2\sqrt{105}}{-10} = 2 - \frac{\sqrt{105}}{5} \approx 2 - 2.049 \approx -0.049$
-       $t_2 = \frac{-20 - 2\sqrt{105}}{-10} = 2 + \frac{\sqrt{105}}{5} \approx 2 + 2.049 \approx 4.049$
-
-4. **Interpret the results:**
-   *   Time cannot be negative in this context, so $t_1$ is not a valid solution.
-   *   The positive value, $t_2 \approx 4.049$ seconds, represents the time it takes for the ball to reach the ground.
-
-5. **State the answer:** It takes approximately 4.049 seconds for the ball to reach the ground.
