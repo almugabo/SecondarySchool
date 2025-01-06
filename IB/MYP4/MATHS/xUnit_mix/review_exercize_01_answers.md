@@ -159,7 +159,7 @@ The student wrote 0.0000007285 as $7.2 \times 10^5$.
 Therefore, the correct representation is **$7.285 \times 10^{-7}$**.
 
 ---
-## Question 6: Rationalizing the Denominator
+## Question 5: Rationalizing the Denominator
 
 #### FIRST EXPLAIN WHAT IT MEANS "RATIONALIZE"
 
@@ -174,13 +174,129 @@ The key technique involves multiplying the numerator and the denominator by a cl
 
 ---
 
-## Question 6: 
+## Question 6: Solve the Following Problems and Show Your Work
+
+**a) A sum of $2700 is to be given in the form of 63 prizes. If the prize is either $100 or $25, find the number of prizes of each type.**
+
+1. **Understand the problem:** We need to find out how many $100 prizes and how many $25 prizes were awarded, given the total number of prizes and the total sum of money.
+
+2. **Define variables:**
+    *   Let 'x' be the number of $100 prizes.
+    *   Let 'y' be the number of $25 prizes.
+
+3. **Formulate equations:**
+    *   **Equation 1 (Total number of prizes):**  The total number of prizes is 63. So, the sum of the number of $100 prizes and the number of $25 prizes is 63.
+        $$x + y = 63$$
+    *   **Equation 2 (Total value of prizes):** The total sum of money is $2700. The value of the $100 prizes is $$100x$$, and the value of the $25 prizes is $$25y$$.
+        $$100x + 25y = 2700$$
+
+4. **Solve the system of equations:** We can use the method of substitution or elimination. Let's use substitution.
+    *   **Solve Equation 1 for x:**  Subtract 'y' from both sides of the equation.
+        $$x = 63 - y$$
+    *   **Substitute this value of x into Equation 2:** Replace 'x' in Equation 2 with the expression we just found.
+        $$100(63 - y) + 25y = 2700$$
+    *   **Simplify and solve for y:** Distribute the 100 into the parentheses.
+        $$6300 - 100y + 25y = 2700$$
+        Combine the 'y' terms:
+        $$6300 - 75y = 2700$$
+        Subtract 6300 from both sides:
+        $$-75y = 2700 - 6300$$
+        $$-75y = -3600$$
+        Divide both sides by -75:
+        $$y = \frac{-3600}{-75}$$
+        $$y = 48$$
+    *   **Substitute the value of y back into the equation for x:** Use the equation we derived for 'x' earlier.
+        $$x = 63 - y$$
+        $$x = 63 - 48$$
+        $$x = 15$$
+
+5. **State the answer:** There are 15 prizes of $100 and 48 prizes of $25.
+
+6. **Check the answer:**
+    *   **Total number of prizes:** $$15 + 48 = 63$$ (Correct)
+    *   **Total value of prizes:** $$(15 \times 100) + (48 \times 25) = 1500 + 1200 = 2700$$ (Correct)
+
+**b) In a class of 42 students, the number of boys is $\frac{2}{5}$ of the girls. Find the number of boys and girls in the class.**
+
+1. **Understand the problem:** We know the total number of students and the relationship between the number of boys and girls. We need to find the individual number of boys and girls.
+
+2. **Define variables:**
+    *   Let 'b' be the number of boys.
+    *   Let 'g' be the number of girls.
+
+3. **Formulate equations:**
+    *   **Equation 1 (Total number of students):** The total number of boys and girls is 42.
+        $$b + g = 42$$
+    *   **Equation 2 (Relationship between boys and girls):** The number of boys is $\frac{2}{5}$ of the number of girls.
+        $$b = \frac{2}{5}g$$
+
+4. **Solve the system of equations:** Let's use substitution.
+    *   **Substitute the value of b from Equation 2 into Equation 1:** Replace 'b' in Equation 1 with the expression from Equation 2.
+        $$\frac{2}{5}g + g = 42$$
+    *   **Simplify and solve for g:** To add the 'g' terms, we need a common denominator. We can write 'g' as $\frac{5}{5}g$.
+        $$\frac{2}{5}g + \frac{5}{5}g = 42$$
+        $$\frac{7}{5}g = 42$$
+        To isolate 'g', multiply both sides by $\frac{5}{7}$:
+        $$g = 42 \times \frac{5}{7}$$
+        $$g = \frac{42 \times 5}{7}$$
+        $$g = 6 \times 5$$
+        $$g = 30$$
+    *   **Substitute the value of g back into Equation 2 to find b:**
+        $$b = \frac{2}{5}g$$
+        $$b = \frac{2}{5} \times 30$$
+        $$b = \frac{2 \times 30}{5}$$
+        $$b = \frac{60}{5}$$
+        $$b = 12$$
+
+5. **State the answer:** There are 12 boys and 30 girls in the class.
+
+6. **Check the answer:**
+    *   **Total number of students:** $$12 + 30 = 42$$ (Correct)
+    *   **Number of boys is $\frac{2}{5}$ of the girls:** $$\frac{2}{5} \times 30 = \frac{60}{5} = 12$$ (Correct)
+
+**c) Among the two supplementary angles, the measure of the larger angle is $36^\circ$ more than the measure of the smaller. Find their measures.**
+
+1. **Understand the problem:** We are dealing with two supplementary angles, meaning their measures add up to $180^\circ$. We are also given the difference between their measures.
+
+2. **Define variables:**
+    *   Let 'L' be the measure of the larger angle (in degrees).
+    *   Let 'S' be the measure of the smaller angle (in degrees).
+
+3. **Formulate equations:**
+    *   **Equation 1 (Supplementary angles):** The sum of the measures of the two angles is $180^\circ$.
+        $$L + S = 180$$
+    *   **Equation 2 (Relationship between the angles):** The measure of the larger angle is $36^\circ$ more than the measure of the smaller angle.
+        $$L = S + 36$$
+
+4. **Solve the system of equations:** Let's use substitution.
+    *   **Substitute the value of L from Equation 2 into Equation 1:** Replace 'L' in Equation 1 with the expression from Equation 2.
+        $$(S + 36) + S = 180$$
+    *   **Simplify and solve for S:** Combine the 'S' terms.
+        $$2S + 36 = 180$$
+        Subtract 36 from both sides:
+        $$2S = 180 - 36$$
+        $$2S = 144$$
+        Divide both sides by 2:
+        $$S = \frac{144}{2}$$
+        $$S = 72$$
+    *   **Substitute the value of S back into Equation 2 to find L:**
+        $$L = S + 36$$
+        $$L = 72 + 36$$
+        $$L = 108$$
+
+5. **State the answer:** The measures of the two angles are $108^\circ$ and $72^\circ$.
+
+6. **Check the answer:**
+    *   **Sum of angles:** $$108^\circ + 72^\circ = 180^\circ$$ (Correct, they are supplementary)
+    *   **Difference between angles:** $$108^\circ - 72^\circ = 36^\circ$$ (Correct, the larger angle is $36^\circ$ more than the smaller)
+
+Great job working through these problems! Let me know if you have any more questions.
+
+
 
 ---
 
 ## Question 7: solve this problem 
-
-This is the second question numbered 8, focusing on a physics concept.
 
 **Pre-requisite:** Understanding quadratic equations and how to solve them (finding the roots). The question provides a formula for the height of a ball over time. We need to find when the height is zero (when it hits the ground).
 
@@ -354,168 +470,5 @@ To determine if lines are parallel, we need to compare their slopes.
 3. **Conclusion:** The lines are parallel because they have the same slope.
 
 ----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Question 9: Rationalizing the Denominator
-
-Let's simplify these expressions by rationalizing the denominator:
-
-**a) $\frac{1}{\sqrt{5}}$**
-
-1. Identify the radical in the denominator: $\sqrt{5}$.
-2. Multiply the numerator and denominator by this radical:
-    $\frac{1}{\sqrt{5}} \times \frac{\sqrt{5}}{\sqrt{5}} = \frac{1 \times \sqrt{5}}{\sqrt{5} \times \sqrt{5}}$
-3. Simplify:
-    $\frac{\sqrt{5}}{5}$
-
-**b) $\frac{2}{\sqrt{8}}$**
-
-1. Identify the radical in the denominator: $\sqrt{8}$.
-2. Multiply the numerator and denominator by this radical:
-    $\frac{2}{\sqrt{8}} \times \frac{\sqrt{8}}{\sqrt{8}} = \frac{2 \times \sqrt{8}}{\sqrt{8} \times \sqrt{8}}$
-3. Simplify:
-    $\frac{2\sqrt{8}}{8}$
-4. Further simplification: Notice that $\sqrt{8} = \sqrt{4 \times 2} = 2\sqrt{2}$. Substitute this back:
-    $\frac{2 \times 2\sqrt{2}}{8} = \frac{4\sqrt{2}}{8}$
-5. Reduce the fraction:
-    $\frac{\sqrt{2}}{2}$
-
-    *Alternatively, you could simplify $\sqrt{8}$ first: $\frac{2}{\sqrt{4 \times 2}} = \frac{2}{2\sqrt{2}} = \frac{1}{\sqrt{2}}$. Then rationalize: $\frac{1}{\sqrt{2}} \times \frac{\sqrt{2}}{\sqrt{2}} = \frac{\sqrt{2}}{2}$.*
-
-**c) $\frac{\sqrt{3}}{\sqrt{12}}$**
-
-1. Identify the radical in the denominator: $\sqrt{12}$.
-2. Multiply the numerator and denominator by this radical:
-    $\frac{\sqrt{3}}{\sqrt{12}} \times \frac{\sqrt{12}}{\sqrt{12}} = \frac{\sqrt{3} \times \sqrt{12}}{\sqrt{12} \times \sqrt{12}}$
-3. Simplify:
-    $\frac{\sqrt{36}}{12} = \frac{6}{12}$
-4. Reduce the fraction:
-    $\frac{1}{2}$
-
-    *Alternatively, simplify the radicals first: $\frac{\sqrt{3}}{\sqrt{4 \times 3}} = \frac{\sqrt{3}}{2\sqrt{3}}$. The $\sqrt{3}$ terms cancel out, leaving $\frac{1}{2}$.*
-
-**d) $\frac{2}{3 - \sqrt{2}}$**
-
-This one is a bit different because the denominator has two terms. Here, we use the **conjugate** of the denominator. The conjugate of $a - b$ is $a + b$, and vice versa.
-
-1. Identify the denominator: $3 - \sqrt{2}$.
-2. Find its conjugate: $3 + \sqrt{2}$.
-3. Multiply the numerator and denominator by the conjugate:
-    $\frac{2}{3 - \sqrt{2}} \times \frac{3 + \sqrt{2}}{3 + \sqrt{2}} = \frac{2(3 + \sqrt{2})}{(3 - \sqrt{2})(3 + \sqrt{2})}$
-4. Expand the denominator using the difference of squares formula: $(a-b)(a+b) = a^2 - b^2$:
-    $\frac{2(3 + \sqrt{2})}{3^2 - (\sqrt{2})^2} = \frac{2(3 + \sqrt{2})}{9 - 2}$
-5. Simplify:
-    $\frac{2(3 + \sqrt{2})}{7}$
-6. Distribute the 2 in the numerator (optional):
-    $\frac{6 + 2\sqrt{2}}{7}$
-
-**e) $\frac{\sqrt{8}}{5 + \sqrt{3}}$**
-
-1. Identify the denominator: $5 + \sqrt{3}$.
-2. Find its conjugate: $5 - \sqrt{3}$.
-3. Multiply the numerator and denominator by the conjugate:
-    $\frac{\sqrt{8}}{5 + \sqrt{3}} \times \frac{5 - \sqrt{3}}{5 - \sqrt{3}} = \frac{\sqrt{8}(5 - \sqrt{3})}{(5 + \sqrt{3})(5 - \sqrt{3})}$
-4. Expand the denominator using the difference of squares formula:
-    $\frac{\sqrt{8}(5 - \sqrt{3})}{5^2 - (\sqrt{3})^2} = \frac{\sqrt{8}(5 - \sqrt{3})}{25 - 3}$
-5. Simplify:
-    $\frac{\sqrt{8}(5 - \sqrt{3})}{22}$
-6. Simplify $\sqrt{8}$: $\sqrt{8} = 2\sqrt{2}$. Substitute back:
-    $\frac{2\sqrt{2}(5 - \sqrt{3})}{22}$
-7. Reduce the fraction by dividing the numerator and denominator by 2:
-    $\frac{\sqrt{2}(5 - \sqrt{3})}{11}$
-8. Distribute $\sqrt{2}$ in the numerator (optional):
-    $\frac{5\sqrt{2} - \sqrt{6}}{11}$
-
-
-
-## Question 8: Solve Following Problems and Show Your Work
-
-Let's tackle these word problems systematically.
-
-**a) A sum of $770 is to be given in the form of 63 prizes. If the prize is of either $10 or $15, find the number of prizes of each type.**
-
-1. **Define variables:**
-   *   Let 'x' be the number of $10 prizes.
-   *   Let 'y' be the number of $15 prizes.
-
-2. **Formulate equations based on the given information:**
-   *   **Equation 1 (Total number of prizes):** x + y = 63
-   *   **Equation 2 (Total value of prizes):** 10x + 15y = 770
-
-3. **Solve the system of equations:** We can use substitution or elimination. Let's use substitution.
-   *   **Solve Equation 1 for x:** x = 63 - y
-   *   **Substitute this value of x into Equation 2:** 10(63 - y) + 15y = 770
-   *   **Simplify and solve for y:** 630 - 10y + 15y = 770  =>  5y = 140  =>  y = 28
-   *   **Substitute the value of y back into the equation for x:** x = 63 - 28  =>  x = 35
-
-4. **State the answer:** There are 35 prizes of $10 and 28 prizes of $15.
-
-5. **Check the answer:**
-   *   Total prizes: 35 + 28 = 63 (Correct)
-   *   Total value: (35 * $10) + (28 * $15) = $350 + $420 = $770 (Correct)
-
-**b) In a class of 47 students, the number of boys is 7 more than the number of girls. Find the number of boys and girls in the class.**
-
-1. **Define variables:**
-   *   Let 'b' be the number of boys.
-   *   Let 'g' be the number of girls.
-
-2. **Formulate equations:**
-   *   **Equation 1 (Total number of students):** b + g = 47
-   *   **Equation 2 (Relationship between boys and girls):** b = g + 7
-
-3. **Solve the system of equations (using substitution):**
-   *   **Substitute the value of b from Equation 2 into Equation 1:** (g + 7) + g = 47
-   *   **Simplify and solve for g:** 2g + 7 = 47  =>  2g = 40  =>  g = 20
-   *   **Substitute the value of g back into Equation 2:** b = 20 + 7  =>  b = 27
-
-4. **State the answer:** There are 27 boys and 20 girls in the class.
-
-5. **Check the answer:**
-   *   Total students: 27 + 20 = 47 (Correct)
-   *   Difference: 27 - 20 = 7 (Correct)
-
-**c) Among the two supplementary angles, the measure of the larger angle is 36 more than the measure of the smaller. Find their measures.**
-
-**Pre-requisite:** Recall that supplementary angles are two angles whose measures add up to 180 degrees.
-
-1. **Define variables:**
-   *   Let 'L' be the measure of the larger angle.
-   *   Let 'S' be the measure of the smaller angle.
-
-2. **Formulate equations:**
-   *   **Equation 1 (Supplementary angles):** L + S = 180
-   *   **Equation 2 (Relationship between the angles):** L = S + 36
-
-3. **Solve the system of equations (using substitution):**
-   *   **Substitute the value of L from Equation 2 into Equation 1:** (S + 36) + S = 180
-   *   **Simplify and solve for S:** 2S + 36 = 180  =>  2S = 144  =>  S = 72
-   *   **Substitute the value of S back into Equation 2:** L = 72 + 36  =>  L = 108
-
-4. **State the answer:** The measures of the two angles are 108 degrees and 72 degrees.
-
-5. **Check the answer:**
-   *   Sum of angles: 108 + 72 = 180 (Correct)
-   *   Difference: 108 - 72 = 36 (Correct)
 
 
