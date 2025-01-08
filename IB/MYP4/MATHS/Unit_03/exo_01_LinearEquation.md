@@ -87,6 +87,7 @@ You are given two points on a straight line:$(-2, -1)$ and $(3, 4)$.
 - Use your graph to calculate the gradient of the line.  
 - Write the equation of the line (in the gradient-intercept form).  
 
+---
 ### 10. Quadrant and Lines 
 
 for each of following lines, 
@@ -98,5 +99,36 @@ b) $y = -x + 4$
 c) $y = 5$    
 d) $y = -2$    
 e) a line which passes through $(-3, 2)$ and $(4, -1)$ 
+
+---
+### 11. Finding the equations of a line 
+
+**a) Find th eequation of the line in thefollowing cases:**
+ 
+ a) Slope of 2 and y-intercept of -7
+
+ b) c=4 and m=-5
+ 
+ c) Slope=-2 and passes through $(0,-2)$ 
+ 
+ d) m= $-\frac{4}{7}$  and passes through $(14,3)$ 
+ 
+ e) slope= 3 and passes through (-5,6) 
+ 
+ f) Slope= $\frac{2}{3}$ and passes through $(3,4)$ 
+ 
+ g) m=-1 and $(9,4)$
+ 
+ h) (4,-6) and slope 0
+
+** b) Find the equation of the line tha passes through the following points**
+
+ a) (-4,4) and -6,-10)
+ 
+ b) (3,4) and (7,8)
+ 
+ c) (-1,1) and (1,7)
+
+
 
 
