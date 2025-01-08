@@ -129,6 +129,23 @@ e) a line which passes through $(-3, 2)$ and $(4, -1)$
  
  c) (-1,1) and (1,7)
 
+---
+### 12. Find the equation of the following line: 
+![Line Plot](xCharts/chart_101.png)
 
+---
+### 13. Find the equation of the following line: 
+![Line Plot](xCharts/chart_102.png)
 
+---
+### 14. Find the equation of the following line: 
+![Line Plot](xCharts/chart_103.png)
+
+---
+### 15. Find the equation of the following line: 
+![Line Plot](xCharts/chart_104.png)
+
+---
+### 16. Find the equation of the following line: 
+![Line Plot](xCharts/chart_105.png)
 
