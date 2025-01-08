@@ -5,7 +5,6 @@ for each of the following equations do the following
 (1) re-arrange the equation so that it has the "Slope-intercept form"     
 (2) find the gradient     
 (3) find the y intercept     
-(4) find the y intercept    
 
 a) $x+y = 9$        
 b) $2x + y = 4$    
@@ -67,24 +66,20 @@ g) $3x + y = 5$
 
 Which of the following pairs of lines are parallel and why ? 
 
-a) $y = 2x + 1$ and $y = 2x - 4$  
-b)  $y = -x + 3 $ and  $y = x - 3$   
-c)  $y = 4x $ and $y = 4x + 5$   
+a) $y = 2x + 1$    and  $y = 2x - 4$  
+b)  $y = -x + 3$   and  $y = x - 3$   
+c)  $y = 4x$      and  $y = 4x + 5$   
 
 ---
 
 ### 8. Find the gradient and the intercept
 You are given two points on a straight line: $(2, 4)$ and $(5, 10)$.  
-- Draw the graph of the line that passes through these points on graph paper.  
-- Use your graph to calculate the gradient of the line.  
 - Write the equation of the line (in the gradient-intercept form).  
 
 ---
 
 ### 9. Find the gradient and the intercept
-You are given two points on a straight line:$(-2, -1)$ and $(3, 4)$.  
-- Draw the graph of the line that passes through these points on graph paper.  
-- Use your graph to calculate the gradient of the line.  
+You are given two points on a straight line: $(-2, -1)$ and $(3, 4)$.  
 - Write the equation of the line (in the gradient-intercept form).  
 
 ---
@@ -121,7 +116,7 @@ e) a line which passes through $(-3, 2)$ and $(4, -1)$
  
  h) (4,-6) and slope 0
 
-** b) Find the equation of the line tha passes through the following points**
+**b) Find the equation of the line tha passes through the following points**
 
  a) (-4,4) and -6,-10)
  
@@ -134,7 +129,7 @@ e) a line which passes through $(-3, 2)$ and $(4, -1)$
 ![Line Plot](xCharts/chart_101.png)
 
 ---
-### 13. Find the equation of the following line: 
+### 13. By finding the slope and y intercept , write down the equation of the following line: 
 ![Line Plot](xCharts/chart_102.png)
 
 ---
@@ -142,10 +137,32 @@ e) a line which passes through $(-3, 2)$ and $(4, -1)$
 ![Line Plot](xCharts/chart_103.png)
 
 ---
-### 15. Find the equation of the following line: 
+### 15. Find the the slope and y intercept following line: 
 ![Line Plot](xCharts/chart_104.png)
 
 ---
 ### 16. Find the equation of the following line: 
 ![Line Plot](xCharts/chart_105.png)
+
+---
+### 17. Which of the following pairs of lines are perpendicular and why ? 
+
+a) $y = 2x + 1$    and  $y = \frac{1}{2}x - 4$  
+b)  $y = -x + 3$   and  $y = x - 3$   
+c)  $y = 4x$      and  $y = \frac{1}{4}x + 5$   
+---
+### 18. The equations of six lines are given below: 
+
+a) $y = 2x -3$    
+b) $y = \frac{1}{2} + 5$     
+c) $y = x + 3$      
+d) $y = -2x -4$    
+e) $y = -\frac{1}{2} + 4$     
+f) $y = 2x -2$      
+
+i) name a pair of parallel lines 
+ii) name a pair of perpendicular lines 
+iii) which lines crosses the y-axis at $(0,4)$ ? 
+iii) which lines crosses the y-axis at $(0,-3)$ ? 
+
 
