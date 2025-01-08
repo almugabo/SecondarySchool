@@ -38,4 +38,13 @@ def plot_line(m, c, xfigure_name = 'chart_01.png'):
     plt.savefig(xfigure_name)
     plt.show()
 
+
+#plot_line(m = 2,    c = 3,   xfigure_name = 'chart_101.png')
+#plot_line(m = 0.25, c= 1,    xfigure_name = 'chart_102.png')
+#plot_line(m = 1/3,  c= 4,    xfigure_name = 'chart_103.png')
+#plot_line(m = -2,   c= -6,   xfigure_name = 'chart_104.png')
+#plot_line(m = -3/4,   c= 1,   xfigure_name = 'chart_105.png')
+
+
+
 ```
