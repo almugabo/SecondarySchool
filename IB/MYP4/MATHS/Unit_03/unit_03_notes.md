@@ -38,7 +38,6 @@ Key Facts about the **coordinate plane** is also called
 ![Line Plot](xCharts/chart_coordinate_plane_01.svg)
 
 
-
 ---
 
 ## 2. slope - intercept form 
@@ -57,17 +56,63 @@ This equation acts like a secret code that unlocks important information about t
 
 - In mathematical terms, the gradient is the *change in the y-value* **divided** by *the change in the x-value* **(RISE OVER RUN)**.
 
-
-
 ![Line Plot](xCharts/chart_slope_rise_over_run.svg)
+
+
+
+## 2.2. Types of slopes 
+
+A **positive gradient** means the line slopes upwards from left to right.
+
+A **negative gradient** means the line slopes downwards from left to right.
+
+
+## 2.3 finding the slope from a chart 
+
+
+if you have a chart of a line, there are two ways you can **find the sloe**
+
+A) by using the chart 
+
+![Line Plot](xCharts/chart_slope_rise_over_run_example.svg)
+
+
+Chart 1: Pick Two Points
+
+    Two points are selected on the line: A(1,2)A(1,2) and B(3,1)B(3,1).
+    The line is plotted, and the points are clearly labeled.
+
+Chart 2: Find Rise and Run
+
+    A right triangle is drawn between the two points, illustrating the "rise" (−1−1) and "run" (22).
+    The dashed lines highlight the vertical and horizontal distances between the points.
+
+
+B) by using the **formula for the slope**
+
+
+
+  
+---
+
+## 3. find the equation of a line 
+
+remember a line is given by the equation : **y = mx + c**
+
+you need to find the **m** and **c**
+
+there are 4 situations 
+
+- you are given the equation
+- you are given the slope and one point
+- you are given two points
+- you are given a chart
 
 
 
 ---
 
-A **positive gradient** means the line slopes upwards from left to right.
 
-A **negative gradient** means the line slopes downwards from left to right.
 
 
 
