@@ -1,5 +1,5 @@
 
-### plabe coordinate 
+### plane coordinate 
 
 ```python
 import matplotlib.pyplot as plt
