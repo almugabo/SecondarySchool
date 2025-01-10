@@ -14,7 +14,32 @@ These situations can be represented by lines on a graph, showing how one thing c
 
 Many of these lines – in fact, almost all the ones we'll come across in many situations – can be described by a special equation called the gradient-intercept form.   **𝑦 = 𝑚𝑥 + 𝑐** (this is called the **slope-intercept form** or **gradient-intercept form**
 
-(exception : perfectly **vertical line**)
+
+---
+## 2. The coordinate plane 
+
+*Let's review the coordinate plane. It helps us draw the lines.*
+
+
+A **coordinate plane** is a flat surface formed by the intersection of two lines called **AXES**. 
+
+- the horizontal line = **X-AXIS**
+- vertical line = **Y-AXIS**
+- the point where they interect = **ORIGIN**
+
+Key Facts about the **coordinate plane** is also called 
+
+- It is also called the **cartesian plane**  or **grid system**
+- it can be used to represent each point each by using a**pair of numbers** called **coordinates**
+- the coordinates of a point are always given as $(X,Y)$
+- It has **4** quadrants which are usually labeled **ANTI-CLOCKWISE**
+  
+
+![Line Plot](xCharts/chart_coordinate_plane_01.svg)
+
+
+
+---
 
 ## 2. slope - intercept form 
 
@@ -28,23 +53,7 @@ This equation acts like a secret code that unlocks important information about t
 * **c** represents the **y-intercept**.
 
 
-## 3. The coordinate plane 
 
-A **coordinate plane** is a flat surface formed by the intersection of two lines called **AXES**. 
-
-- the horizontal line = **X-AXIS**
-- vertical line = **Y-AXIS**
-- the point where they interect = **ORIGIN**
-
-The **coordinate plane** is also called 
-
-- **cartesian plane** 
-- **grid system**
-
-The coordinate plane can be used 
-
-- to represent each point each by using a**pair of numbers** called **coordinates**
-- the coordinates of a point are always given as $(X,Y)$
 
 
 
