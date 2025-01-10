@@ -62,9 +62,21 @@ This equation acts like a secret code that unlocks important information about t
 
 ## 2.2. Types of slopes 
 
-A **positive gradient** means the line slopes upwards from left to right.
 
-A **negative gradient** means the line slopes downwards from left to right.
+EXPLAIN !!!! 
+
+* A **positive gradient** means the line slopes upwards from left to right.
+
+* A **negative gradient** means the line slopes downwards from left to right.
+  
+* zero slope
+
+* undefined slope 
+
+
+![Line Plot](xCharts/chart_types_of_slopes.svg)
+
+
 
 
 ## 2.3 finding the slope from a chart 
