@@ -53,14 +53,14 @@ This equation acts like a secret code that unlocks important information about t
 * **c** represents the **y-intercept**.
 
 
+## 2.1. slope as RISE OVER RUN 
+
+- In mathematical terms, the gradient is the *change in the y-value* **divided** by *the change in the x-value* **(RISE OVER RUN)**.
 
 
 
 
 
-
-
-*In mathematical terms, the gradient is the change in the y-value divided by the change in the x-value (rise over run).*
 
 
 
