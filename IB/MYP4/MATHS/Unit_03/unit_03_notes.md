@@ -172,6 +172,51 @@ $slope = \frac{\text{change in y}}{\text{change in x}} = \frac{y_2 - y_1}{x_2 - 
 In the example above we had two points A = (1,2) and B = (3,1)  
 
 
+x | y |
+--|--|
+1|2|
+3|1
+
+$slope = \frac{\text{change in y}}{\text{change in x}} = \frac{1 - 2}{3 - 1} = \frac{-1}{2}= -\frac{1}{2}$ 
+
+now that we have the slope $-\frac{1}{2}$ 
+
+we need to find **c**
+
+- we know that $y = mx + c$ 
+- so $y=-\frac{1}{2}x + c$
+-  we can use any of the points the line pass through to find **c**
+- we just have to **plug it** into the formula
+
+  if we take the point  $A = (1,2)$ , remember this is is $x,y$
+
+  so IF **PLUG** the values in the equation we get 
+
+  $2 = -\frac{1}{2} + c$
+
+  we isolate c
+
+  $2 + -\frac{1}{2} = c$
+
+  $2 -0.5 = c$
+
+  $c = 1.5$
+
+  so for this line
+
+  $m=-\frac{1}{2}$ and $c=1.5$
+
+  so the equation of the line is
+
+  $y = -\frac{1}{2}x + 1.5$
+
+
+### 3.3 when you are given two points 
+  
+
+### 3.3 when you are one point and the slope 
+
+
 
 
 ---
