@@ -42,7 +42,7 @@ Key Facts about the **coordinate plane** is also called
 
 ## 2. slope - intercept form 
 
-The gradient-intercept form of a linear equation is: 
+The slope-intercept form of a linear equation is: 
 
 **y = mx + c**
 
@@ -51,6 +51,8 @@ This equation acts like a secret code that unlocks important information about t
 * **m** represents **the gradient**. (sometimes it is also called **slope** )
 * **c** represents the **y-intercept**.
 
+    ! when the equation is written in this form $Ax + By = X$ , it is said that it is written in **standard form**
+       Here we deal only with the **slope-intercept form** also called **gradient-intercept** form 
 
 ## 2.1. slope as RISE OVER RUN 
 
@@ -60,7 +62,7 @@ This equation acts like a secret code that unlocks important information about t
 
 
 
-## 2.2. Types of slopes 
+## 2.2. Types of slopes or four types of gradients  
 
 
 EXPLAIN !!!! 
@@ -68,21 +70,79 @@ EXPLAIN !!!!
 * A **positive gradient** means the line slopes upwards from left to right.
 
 * A **negative gradient** means the line slopes downwards from left to right.
-  
-* zero slope
 
-* undefined slope 
+* A **zero gradient** is horizontal. It means that the rise is **zero** and 0 divided by any number is zero
+
+* An **undefined slope** a perfectly vertical line . It is underfined because any number divided by zero is **underfined**
 
 
 ![Line Plot](xCharts/chart_types_of_slopes.svg)
 
 
 
+--- 
+## 3. find the equation of a line 
 
-## 2.3 finding the slope from a chart 
+finding the equation of a line means finding:
+- **m** : the slope or gradient
+- **c**: the intercept
+
+and then writing it as $y=mx+c$
+
+There are 4 situations 
+
+- you are given the equation in different form 
+- you are given a line in coordinates system 
+- you are given two points
+- you are given the slope and one point
+
+### 3.1 when given an equation in different form 
+
+for example 
+
+$3x + 2y = 15$ 
+
+in that case simply **re-arrange** the equation to put it in the form $y=mx+c$ (slope-intercept form) 
 
 
-if you have a chart of a line, there are two ways you can **find the sloe**
+```
+The slope-intercept form of a linear equation is:
+
+y = mx + b
+
+Where:
+
+    m is the slope of the line.
+
+    b is the y-intercept (the point where the line crosses the y-axis).
+
+Solution 
+
+    Isolate the y term:
+
+    Our equation is:
+    3x + 2y = 15
+
+    To isolate 2y, subtract 3x from both sides of the equation:
+    2y = -3x + 15
+
+    Solve for y:
+
+    Divide both sides by 2 to get y alone:
+    y = (-3/2)x + 15/2
+
+Result
+
+The equation in slope-intercept form is: y = (-3/2)x + 7.5
+```
+
+
+### 3.2 when given a line in coordinates system 
+
+
+The first step is to find the **slope**
+
+if you have a chart of a line, there are two ways you can **find the slope**
 
 A) by using the chart 
 
@@ -91,7 +151,7 @@ A) by using the chart
 
 Chart 1: Pick Two Points
 
-    Two points are selected on the line: A(1,2)A(1,2) and B(3,1)B(3,1).
+    Two points are selected on the line: A(1,2) and B(3,1).
     The line is plotted, and the points are clearly labeled.
 
 Chart 2: Find Rise and Run
@@ -102,28 +162,19 @@ Chart 2: Find Rise and Run
 
 B) by using the **formula for the slope**
 
+Rember slope is rise over run $\frac{rise}{run}$
+
+Slope is calculated as:
+
+$slope = \frac{\text{change in y}}{\text{change in x}} = \frac{y_2 - y_1}{x_2 - x_1}$
 
 
-  
----
+In the example above we had two points A = (1,2) and B = (3,1)  
 
-## 3. find the equation of a line 
-
-remember a line is given by the equation : **y = mx + c**
-
-you need to find the **m** and **c**
-
-there are 4 situations 
-
-- you are given the equation
-- you are given the slope and one point
-- you are given two points
-- you are given a chart
 
 
 
 ---
-
 
 
 
