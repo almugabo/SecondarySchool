@@ -47,6 +47,91 @@ plot_coordinate_plane(max_x = 6, max_y = 6, xlabeled = False)
 
 ```
 
+---
+
+### code to show that slope = rise over run 
+
+```python
+import matplotlib.pyplot as plt
+
+def create_slope_chart():
+    """Creates the two slope charts with explanations."""
+
+    # Set up the figure and subplots
+    fig, axs = plt.subplots(1, 2, figsize=(10, 5))
+    # Data for the line
+    x_vals = [-2,5]
+    y_vals = [3.0, 0.5]
+
+    # Data for triangle
+    A_x = 1
+    A_y = 2
+    B_x = 3
+    B_y = 1
+    
+    
+    # Chart 1: Line with points A and B
+    axs[0].plot(x_vals, y_vals, color='steelblue', linewidth=1.5)
+    axs[0].scatter([A_x, B_x], [A_y, B_y], color='navy', s=50)
+    axs[0].text(A_x - 0.2, A_y + 0.2, 'A', fontsize=12)
+    axs[0].text(B_x - 0.2, B_y + 0.2, 'B', fontsize=12)
+    axs[0].set_xlim(-2.5, 5.5)
+    axs[0].set_ylim(-1.5, 4.5)
+    axs[0].set_xticks(range(-2, 6))
+    axs[0].set_yticks(range(-1, 5))
+    axs[0].set_xlabel('x')
+    axs[0].set_ylabel('y')
+    axs[0].grid(True)
+    
+    # Add explanation text to the first chart
+    axs[0].text(-2.4,4.2, "Pick two points:", fontsize = 10)
+    axs[0].text(-2.4,3.8, "A (1, 2) and", fontsize = 10)
+    axs[0].text(-2.4,3.4, "B (3, 1).", fontsize = 10)
+
+    # Chart 2: Line with slope triangle
+    axs[1].plot(x_vals, y_vals, color='steelblue', linewidth=1.5)
+    axs[1].scatter([A_x, B_x], [A_y, B_y], color='navy', s=50)
+    axs[1].text(A_x - 0.2, A_y + 0.2, 'A', fontsize=12)
+    axs[1].text(B_x - 0.2, B_y + 0.2, 'B', fontsize=12)
+    axs[1].plot([A_x, A_x], [A_y, B_y], color='orange', linestyle='-', linewidth=1.5)
+    axs[1].plot([A_x, B_x], [B_y, B_y], color='orange', linestyle='-', linewidth=1.5)
+    axs[1].set_xlim(-2.5, 5.5)
+    axs[1].set_ylim(-1.5, 4.5)
+    axs[1].set_xticks(range(-2, 6))
+    axs[1].set_yticks(range(-1, 5))
+    axs[1].set_xlabel('x')
+    axs[1].set_ylabel('y')
+    axs[1].grid(True)
+    
+    # Add explanation text to the second chart
+    axs[1].text(-2.4,4.2, "Start with the point farthest to the left.", fontsize = 10)
+    axs[1].text(-2.4,3.8, "Draw a right triangle", fontsize = 10)
+    axs[1].text(-2.4,3.4, "to get from A to B.", fontsize = 10)
+
+    axs[1].text(3.5, 1.8, 'RISE = -1', fontsize=10)
+    axs[1].text(3.5, 1.5, '(Because you moved down 1 space.)', fontsize=10)
+    axs[1].text(3.5, 1.2, 'RUN = 2', fontsize=10)
+    axs[1].text(3.5, 0.9, '(Because you moved right 2 spaces.)', fontsize=10)
+
+    axs[1].text(3.5, 0.5, 'SLOPE = RISE / RUN = -1 / 2', fontsize=10)
+    #axs[1].text(-2.4, -1, '(The slope is -1/2 everywhere on the line.)', fontsize=10)
+    #axs[1].text(-2.4, -1.3, "Any time you rise -1 and run 2, you'll be back on the line.)", fontsize=10)
+
+
+    plt.tight_layout()
+    plt.savefig("chart_slope_rise_over_run_example.svg", format="svg")
+    plt.show()
+
+# Run the function
+create_slope_chart()
+
+```
+
+
+
+---
+
+
 
 ### code to generate lines 
 
@@ -91,6 +176,8 @@ def plot_line(m, c, xfigure_name = 'chart_01.png'):
 #plot_line(m = 1/3,  c= 4,    xfigure_name = 'chart_103.png')
 #plot_line(m = -2,   c= -6,   xfigure_name = 'chart_104.png')
 #plot_line(m = -3/4,   c= 1,   xfigure_name = 'chart_105.png')
+
+
 
 
 
