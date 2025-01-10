@@ -59,10 +59,11 @@ This equation acts like a secret code that unlocks important information about t
 
 
 
+![Line Plot](xCharts/chart_slope_rise_over_run.svg)
 
 
 
-
+---
 
 A **positive gradient** means the line slopes upwards from left to right.
 
