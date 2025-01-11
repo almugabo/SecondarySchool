@@ -212,12 +212,92 @@ we need to find **c**
 
 
 ### 3.3 when you are given two points 
-  
+
+when you are given two points 
+- first find **m** by using the **formula for the slope**
+- second : find **c** by **pluging the values of one point** into the equation of the line $y=mx+c$
+
+example:
+
+**find the equation of a line which passes through two points A=(2,4) and B= (5,10)**
+
+**Step 1: find m**
+
+point|  x | y |
+--|--|--|
+A|2|4|
+B|5|10|
+
+remember the formula of the slope :
+
+$slope = m = \frac{\text{change in y}}{\text{change in x}} $ 
+
+$m = \frac{10-4}{5 - 2} = \frac{6}{3}= 2$
+
+$m=2$
+
+**Step 2: find c** by **PLUGING IN THE VALUES OF ONE POINT**
+
+the equation of the line $y=mx+c$
+
+m = 2 
+
+y = 2x + c 
+
+to find c we can use point A=(2,4) or B= (5,10)
+
+we use point B
+
+
+
+in point B : x = 5, y = 10 
+
+4 = 2 * 5 + c 
+
+4 = 10 + c 
+
+we isolate c 
+
+4-10 = c 
+
+-6 = c 
+
+so c = -6 
+
+we have m = 2 and c = -6 
+
+so the equation of the line is $y = 2x - 6$
 
 ### 3.3 when you are one point and the slope 
 
+that means you have **m** and just have to find **c**
 
+example:
 
+**find the equation of a line which passes through the point (4,6) and has a slope of -3**
+
+equation of a line is $y=mx + c$
+
+**m= -3**
+
+the task is to find **c** by **PLUGING IN THE VALUES OF ONE POINT**
+
+x = 4 and y = 6 
+
+so 
+6 = -3 * 4 + c 
+
+6 = -12 + c 
+
+we isolate c 
+
+6 + 12 = c 
+
+c = 18 
+
+with m = -3 and c = 18 the equation of the line is 
+
+$y = -3x + 18$
 
 ---
 
