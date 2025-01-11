@@ -30,19 +30,25 @@ Imagine an ant is trying to reach a drop of honey. It doesn't walk in a straight
 
 
 ---
-**NOTE**
+**REMEMBER**
 
-  • When talking about **distance** we only state the *numerical value*
+**Distance**: The total length of the path traveled by an object. It's a scalar quantity, meaning it only has magnitude (a numerical value). Think of it as the reading on your car's odometer.
+
+**Displacement**: The change in position of an object. It's a vector quantity, meaning it has both magnitude and direction. It's the straight-line distance between the starting and ending points, with a direction. Imagine drawing a straight arrow from where you started to where you finished.
+
+
+
+- When talking about **distance** we only state the *numerical value*
   
-         for example: 14 cm and not 14 centimeters northeast or anything like that).
+• for example: 14 cm and not 14 centimeters northeast or anything like that).
          
-         This means we have only one value, *the magnitude*. This type of values is called a **scalar**. 
-         
-  • When talking about **displacement**, we state the  *numerical value* and also add the *direction*
+• This means we have only one value, *the magnitude*. This type of values is called a **scalar**. 
+
+- When talking about **displacement**, we state the  *numerical value* and also add the *direction*
   
-         for example: 7 centimeters northeast of its starting point
+• for example: 7 centimeters northeast of its starting point
          
-         So, we have two values: the *magnitude and the direction*. This type of values is called a **vector**.
+• So, we have two values: the *magnitude and the direction*. This type of values is called a **vector**.
 
 ---
 
