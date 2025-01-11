@@ -13,6 +13,8 @@
 ## 2. Distance and Displacement 
 
 
+### Example 1 
+
 Imagine an ant is trying to reach a drop of honey. It doesn't walk in a straight line. It walks around pebbles, over twigs, and maybe even takes a detour to avoid a spider!
 
 
@@ -27,6 +29,19 @@ Imagine an ant is trying to reach a drop of honey. It doesn't walk in a straight
    - a) what would its displacement be?
    - b) What would its total distance be?
 8) Can displacement ever be greater than distance? Why or why not ?
+
+
+
+### Example 2
+
+Below is a movement of cat in meters. The cat starts at some position (initial) and moves to another position (final).
+
+![Line Plot](Charts/unit_motion_distance_displacement_02.svg)
+
+a) What is the initial position of the cat?
+b) What is the final position of the cat?
+c) If the cat travelled in a straight line from the initial to the final position, what distance did it travel?
+d) If the cat travelled in a straight line from the initial to the final position, what is its displacement ? 
 
 
 ---
@@ -51,6 +66,48 @@ Imagine an ant is trying to reach a drop of honey. It doesn't walk in a straight
 • So, we have two values: the *magnitude and the direction*. This type of values is called a **vector**.
 
 ---
+
+## 3. Speed and Velocity 
+
+#### Speed 
+- Speed is a measeure of how fast you are going
+- When we talk about speed we specify which distance something is traveling in a given amount of time.
+- For example , imagine a cheetah chasing a gazelle. We can say that cheetah runs 100 meters in 4 seconds.
+
+$Speed = \frac{Distance}{Time}$ 
+
+in this case 
+
+$\text{Speed of the cheetah}= \frac{Distance}{Time} = \frac{100 m}{4 seconds} = 25 meters per second (m/s)$ 
+
+
+#### Velocity 
+As we have distance and displacement, we also have Speed and Velocity 
+
+**Velocity: Speed with a Direction** 
+
+The Airplane's Flight: Now, consider an airplane flying. Let's say it's traveling at 600 kilometers per hour (km/h).
+
+"Is this enough information to fully describe the airplane's motion?"
+
+-  knowing only the speed isn't enough.
+-  We also need to know the direction. Is it flying north, south, east, or west?
+
+
+- Speed is a scalar quantity – it only has magnitude (25 m/s in this case) and no direction. 
+- Velocity is a vector quantity – it has both magnitude (600 km/h) and direction (east).
+
+
+$Velocity = \frac{Displacement}{Time}$ 
+
+
+## 4. Acceleration 
+
+
+
+
+## 5. Time Distance Graph 
+
 
 
 
