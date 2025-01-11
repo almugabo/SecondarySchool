@@ -301,12 +301,14 @@ $y = -3x + 18$
 
 ---
 
+## 4. parallel and perpendicular lines 
 
 
 
 
+## 5. Simultaneous equations 
 
-![Line Plot](xCharts/chart_coordinate_plane_01x.svg)
+
 
 
 
