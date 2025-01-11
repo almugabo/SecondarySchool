@@ -124,14 +124,86 @@ def create_slope_chart():
 
 # Run the function
 create_slope_chart()
+```
+
+---
+### code to generate different types of slopes 
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+def plot_slope_types_subplot_with_axes():
+    """
+    Plots the four types of slopes (positive, negative, zero, and undefined) in a 2x2 subplot layout.
+    Each subplot shows x and y ticks with all units, and the x and y axes are displayed.
+    """
+
+    # Define the range for x-values
+    x = np.linspace(-5, 5, 100)
+
+    fig, axes = plt.subplots(2, 2, figsize=(10, 8))  # Create a figure with 2x2 subplots
+
+    # 1. Positive Slope
+    y_positive = 0.5 * x
+    axes[0, 0].plot(x, y_positive, color='green')
+    axes[0, 0].set_title("Positive Slope")
+    axes[0, 0].set_xticks(np.arange(-5, 6, 1))  # Set x-ticks at every integer value
+    axes[0, 0].set_yticks(np.arange(-5, 6, 1))  # Set y-ticks at every integer value
+    axes[0, 0].set_xlabel("x")
+    axes[0, 0].set_ylabel("y")
+    axes[0, 0].grid(True)
+    axes[0, 0].axhline(0, color='black', linewidth=0.5) #add horizontal axis
+    axes[0, 0].axvline(0, color='black', linewidth=0.5) #add vertical axis
+
+    # 2. Negative Slope
+    y_negative = -0.5 * x
+    axes[0, 1].plot(x, y_negative, color='purple')
+    axes[0, 1].set_title("Negative Slope")
+    axes[0, 1].set_xticks(np.arange(-5, 6, 1))
+    axes[0, 1].set_yticks(np.arange(-5, 6, 1))
+    axes[0, 1].set_xlabel("x")
+    axes[0, 1].set_ylabel("y")
+    axes[0, 1].grid(True)
+    axes[0, 1].axhline(0, color='black', linewidth=0.5) #add horizontal axis
+    axes[0, 1].axvline(0, color='black', linewidth=0.5) #add vertical axis
+
+    # 3. Zero Slope
+    y_zero = np.zeros_like(x)
+    axes[1, 0].plot(x, y_zero + 2 , color='blue')
+    axes[1, 0].set_title("Zero Slope")
+    axes[1, 0].set_xticks(np.arange(-5, 6, 1))
+    axes[1, 0].set_yticks(np.arange(-5, 6, 1))
+    axes[1, 0].set_xlabel("x")
+    axes[1, 0].set_ylabel("y")
+    axes[1, 0].grid(True)
+    axes[1, 0].axhline(0, color='black', linewidth=0.5) #add horizontal axis
+    axes[1, 0].axvline(0, color='black', linewidth=0.5) #add vertical axis
+
+    # 4. Undefined Slope
+    axes[1, 1].axvline(2, color='yellow')  ## the line with undefined slop 
+    axes[1, 1].set_title("Undefined Slope")
+    axes[1, 1].set_xticks(np.arange(-5, 6, 1))
+    axes[1, 1].set_yticks(np.arange(-5, 6, 1))
+    axes[1, 1].set_xlabel("x")
+    axes[1, 1].set_ylabel("y")
+    axes[1, 1].grid(True)
+    axes[1, 1].axhline(0, color='black', linewidth=0.5) #add horizontal axis
+    axes[1, 1].axvline(0, color='black', linewidth=0.5) #add vertical axis
+    
+    
+    # Adjust layout to prevent titles/labels overlap
+    plt.tight_layout()
+
+    plt.savefig("chart_types_of_slopes.svg", format="svg")
+    plt.show()
+    
+plot_slope_types_subplot_with_axes() 
 
 ```
 
 
-
 ---
-
-
 
 ### code to generate lines 
 
