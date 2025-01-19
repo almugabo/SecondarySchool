@@ -50,3 +50,10 @@ Who is the fastest runner ? (use table below)
 ----
 ### Q11
 It takes a swimmer 57.2 s to swim a distance of 100 m. What is the swimmer’s average speed?
+
+----
+### Q11
+A car on a motorway is traveling at a constant speed of $30 \, \text{m/s}$ when it overtakes a lorry traveling at a speed of $22 \, \text{m/s}$. If both vehicles maintain their speeds, how far ahead of the lorry will the car be after $300 \text{s}$?
+
+
+
