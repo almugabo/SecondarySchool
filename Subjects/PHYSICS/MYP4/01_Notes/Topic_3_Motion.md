@@ -155,6 +155,14 @@ example
 
 
 
+Graphs of motion
+
+- The gradient of a distance–time graph represents the speed.
+- The gradient of a velocity–time graph represents the acceleration.
+- The area under a velocity–time graph between two times represents the distance traveled during the time period.
+
+
+
 
 
     
