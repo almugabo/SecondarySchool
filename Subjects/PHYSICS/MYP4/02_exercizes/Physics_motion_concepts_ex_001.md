@@ -3,7 +3,10 @@
 
 
 ### Q01
-Distinguish between velocity and acceleration.
+- Distinguish between velocity and acceleration.
+- What is the difference between speed and velocity?
+
+
 
 ---
 ### Q02
@@ -15,7 +18,10 @@ Which of the following is not accelerating?
 
 ---
 ### Q03
-What is the formulate of the  average speed? 
+What are the formula of 
+- average speed?
+- average velocity
+- acceleration 
 
 ---
 ### Q04
@@ -24,3 +30,7 @@ Relate displacement and distance traveled. When does distance traveled equal the
 ---
 ### Q05
 Write a short story that illustrates the differences between speed, velocity, and acceleration. Your story should be a few paragraphs long and should use speed, velocity, and acceleration in ways that demonstrate the relationships between the terms.
+
+
+
+
