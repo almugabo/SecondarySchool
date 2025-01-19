@@ -47,4 +47,6 @@ Who is the fastest runner ? (use table below)
 |Matt	|10.5	|32|
 |Sandra|	8.9	|30|
 
-
+----
+### Q11
+It takes a swimmer 57.2 s to swim a distance of 100 m. What is the swimmer’s average speed?
