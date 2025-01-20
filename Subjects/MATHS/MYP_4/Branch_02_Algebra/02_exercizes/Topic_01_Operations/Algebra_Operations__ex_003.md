@@ -1,7 +1,7 @@
 ## Algebra - Expansion
 
-## 1. Explain the term 'factorize'.  
-#### *Garden Dimensions*
+## 1. *Garden Dimensions*
+
 The area of a rectangular garden is $56 \, \text{m}^2$. The length is $x + 7 \, \text{m}$, and the width is $x - 3 \, \text{m}$. Find the dimensions of the garden.
 
 ---
