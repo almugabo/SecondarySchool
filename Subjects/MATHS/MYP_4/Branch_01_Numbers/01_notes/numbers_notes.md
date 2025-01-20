@@ -20,6 +20,38 @@ the radical symbol =  $\sqrt{}$
  - A surd is an irrational number.
  - It is any number that includes a radical symbol $\sqrt{}$ and cannot be calculated exactly
 
+**Difference Between a Radical and a Surd:**
+
+- **Radical:**
+   A radical is a general mathematical symbol $\sqrt{}$  that denotes the root of a number or expression. It represents **any root**, whether the result is rational or irrational. 
+
+   - **Example of a Radical:**
+     $\sqrt{16} = 4$ 
+     Here, $\sqrt{16}$  is a radical, and the result is a rational number.
+
+- **Surd:**
+   A surd is a specific type of radical that **cannot be simplified into a rational number**. It remains an **irrational number** after simplification. 
+
+   - **Example of a Surd:**
+     $\sqrt{5}$
+  
+     Here, $\sqrt{5}$ cannot be simplified further, and its decimal expansion is non-repeating and non-terminating, so it is a surd.
+
+### Key Points:
+
+- **All surds are radicals, but not all radicals are surds.**
+- If a radical simplifies to a rational number, it is **not** a surd.
+- Surds represent irrational numbers, while radicals are broader and include both rational and irrational results.
+
+### Summary with Examples:
+
+| **Type**    | **Example**     | **Explanation**                                |
+|-------------|-----------------|------------------------------------------------|
+| Radical     |  $\sqrt{16}$  | Simplifies to $4$, a rational number.      |
+| Surd        |  $\sqrt{7}$    | Cannot be simplified to a rational number.    |
+
+
+
 ### 5.2 Operations with Surds 
 
 
