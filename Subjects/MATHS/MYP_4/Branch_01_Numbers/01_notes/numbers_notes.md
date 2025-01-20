@@ -78,10 +78,91 @@ One way to remember them :
    - For example, $a^0 = 1$ (as long as $a \neq 0$).
 
 
-
-
 ----
+## 3. Rounding 
 
+You remember **rounding** from primary school 
+
+Rounding simplifies numbers while keeping them reasonably close to their original value.
+
+### The rules of rounding 
+
+If 
+- the next digit is less than five round down 
+- the next digit is greater or equal to 5, round up 
+
+Now you will learn how to round 
+
+- to **significant figures**
+- to decimal points 
+- to given whole numbers (e.g. nearest 100) 
+
+
+#### 1. **Rounding to significant figures**
+
+*   **Definition:** Significant figures (also known as "sig figs") represent the digits in a number that carry meaning to its precision. They convey how accurately a measurement is known.
+*   **Rules for Identifying Significant Figures:**
+    1.  **Non-zero digits are always significant.** (e.g., in 123, all three digits are significant)
+    2.  **Zeros between non-zero digits are significant.** (e.g., in 105, all three digits are significant)
+    3.  **Leading zeros (zeros to the left of the first non-zero digit) are NOT significant.** (e.g., in 0.0025, only 2 and 5 are significant)
+    4.  **Trailing zeros in a decimal number ARE significant.** (e.g., in 1.50, the zero is significant)
+
+    1.  Identify the number of significant figures needed.
+    2.  Count from the first non-zero digit to the specified number of significant figures
+    3. Look at the next digit (the decision digit) to the right of the last significant digit
+    4. Round according to the rules.
+
+**Example:**
+*   Round 12345 to 3 significant figures:
+    1. Identify the first 3 sig figs: 123
+    2. The decision digit is 4
+    3. Result : 12300 (note: the 2 trailing zeros are not significant)
+*  Round 0.004567 to 2 significant figures:
+    1. Identify the first 2 sig figs: 45
+    2. The decision digit is 6
+    3. Result: 0.0046 (note the 2 leading zeros are not significant and remain as they indicate the decimal's position)
+
+#### 2. **Rounding to Decimal Places**
+
+*   **Definition:** Decimal places refer to the number of digits to the right of the decimal point.
+*   **Rounding Process:**
+    1.  Identify the desired number of decimal places.
+    2.  Look at the digit in the next decimal place to the right (the decision digit).
+    3.  Round according to the basic rounding rules. All digits to the right are dropped.
+
+**Example:**
+
+*   Round 3.14159 to 2 decimal places:
+    1.  We want 2 decimal places: 3.14
+    2.  The decision digit is 1
+    3.  Result: 3.14
+* Round 12.987 to 1 decimal place:
+     1.  We want 1 decimal place: 12.9
+     2.  The decision digit is 8
+     3.  Result: 13.0
+
+
+#### 3. **Rounding to Given Whole Numbers**
+
+*   **Concept:** Rounding to the nearest 10, 100, 1000, etc. means adjusting a number to the closest multiple of that value.
+*   **Rounding Process:**
+    1.  Identify the place value you are rounding to (tens, hundreds, thousands, etc.).
+    2.  Look at the digit immediately to the right (the decision digit) of that place value.
+    3.  Round according to basic rules. All digits to the right become zeros.
+
+**Example:**
+
+*   Round 176 to the nearest 100:
+    1.  We are rounding to the hundreds place
+    2.  The decision digit is 7
+    3.  Result: 200
+*   Round 2345 to the nearest 10:
+     1. We are rounding to the tens place
+     2. The decision digit is 5
+     3. Result: 2350
+
+
+---
 ## 5. Radicals and Surds 
 
 the radical symbol =  $\sqrt{}$ 
