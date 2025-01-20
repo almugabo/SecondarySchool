@@ -32,6 +32,9 @@ Simplify each expression, showing your steps and stating which exponent rule you
 - $\frac{a^6}{a^2}$  
 - $(2m^3n^2)^5$  
 - $\left(\frac{5^3}{5}\right)^2$
+- $\frac{(4m^4n^2)(6mn^4)}{-3m^5n^6}$  
+- $\frac{28m^7n^5}{-7m^7n^3}$  
+- $\frac{(3a^2b^2)(-2a^4b^2)}{(6ab)(-2a^4b)}$
 
 ---
 
@@ -62,11 +65,14 @@ Calculate the value of each expression:
 ---
 
 ## 7. Simplify
-Simplify the following expressions, leaving your answer in exponent form with positive exponents:
+Simplify the following expressions
 
 - $(x^{1/2})^4$  
 - $(y^{2/3})^{1/2}$  
 - $a^{-1/3} \cdot a^{2/3}$
+- $\frac{36r^6s^4}{8r^2s^2}$
+- $\frac{-35p^9q^6}{-14p^3q^2}$
+- $\frac{(3a^4b^2)(6ab^3)}{9a^2b^4}$  
 
 ---
 
@@ -104,7 +110,10 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $3^1 \div 3^1$ 
 - $(2x^2)^2$ 
 - $(3ab)^4$ 
-- $(2x^3y^4)^3$ 
+- $(2x^3y^4)^3$
+- $\frac{(4m^4n^2)(6mn^4)}{-3m^5n^6}$  
+- $\frac{28m^7n^5}{-7m^7n^3}$  
+- $\frac{(3a^2b^2)(-2a^4b^2)}{(6ab)(-2a^4b)}$
 
 ---
 ## Simplify. 
@@ -116,6 +125,9 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $(7k)^2$ 
 - $(2p \cdot 2p)^2$ 
 - $(4n^2 \cdot n^2)^2$
+- $\frac{54a^8}{-6a^2}$  
+- $\frac{-32a^3b^6}{-4a^2b^3}$  
+- $\frac{30p^4q^5}{3p^2q^2}$  
 
 ---
 ## Simplify. 
@@ -126,7 +138,9 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $(2b^3)^4$
 - $8m^3 \div 10m^3$ 
 - $7n^3 \div 2n^5$
-
+- $\frac{-32a^3b^6}{-4a^2b^3}$  
+- $\frac{30p^4q^5}{3p^2q^2}$
+- 
 ----
 ## Simplify. 
 - $5b^2 \cdot 8b$ 
@@ -144,6 +158,10 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $7k^2 \div 4k^3$ 
 - $(p^3)^4$ 
 - $(k^3)^4$
+- $\frac{(-3p^2q^5y - 4pq^2)}{8p^4q^4}$    
+  
+  
+  
 
 
 ---
@@ -153,13 +171,17 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $7u^3 \cdot 10u^5 \cdot 8u^3$ 
 - $9x^2 \cdot 9x^5y^2$ 
 - $6m^3n^2 \cdot 8m^2n^3$ 
+- $\frac{-45x^{y^5}}{15x^4y^2}$
+- $\frac{(-5x^{y^5})(2xy^2)}{10x^3y^8}$
 
 ----
 ## Simplify. 
 - $6x^2 \cdot 6x^3y^4$ 
 - $9u^5 \cdot 9uv^3$ 
 - $(6yx)^2$ 
-- $(u^4y^3)^2$ 
+- $(u^4y^3)^2$
+- $\frac{(2x^2y^2)(3x^5y^4)}{4x^2y^5}$  
+- $\frac{(-3p^2q^5y - 4pq^2)}{8p^4q^4}$  
 
 ---
 ## Simplify. 
@@ -168,7 +190,10 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $(6b^2)^2$ 
 - $(7y^2)$ 
 - $(3x \cdot 2x)^2$ 
+- $\frac{(-9x^3y^6)(8x^2y^4)}{(2x^3y^3)(-6x^3y^4)}$
+- $\frac{(-7a^2b^3)(4a^3b^5)}{(-2a^3b^2)}$
 
+  ---
 ## Simplify. 
 - $10x^3 \cdot 8x^3y^3$ 
 - $3u^4v^5 \cdot 7u^2v^3$ 
@@ -176,8 +201,6 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
 - $(2n^4)^4$ 
 - $(4x^4 \cdot x)^3$ 
 - $(4n^4 \cdot n)^2$
-----
-
-
-
-
+- $\frac{12x^5}{3x^2}$  
+- $\frac{-24cd^3}{-6cd}$
+  
