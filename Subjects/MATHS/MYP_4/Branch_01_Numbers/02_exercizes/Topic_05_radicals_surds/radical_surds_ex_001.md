@@ -109,4 +109,69 @@ Explain, step by step, how to simplify the surd $\sqrt{72}$. Justify each step y
 
 ---
 
+## 11. perform those operations with Surds 
+- $\sqrt{8} + \sqrt{8} =$
+- $\sqrt{28} \times \sqrt{12} =$
+- $3\sqrt{3} + 3\sqrt{3} =$
+- $2\sqrt{h} \times 4\sqrt{f} = $
+
+---
+## 12. perform those operations with Surds 
+- $11\sqrt{2} + 2\sqrt{2} - 10\sqrt{2} =$
+- $6\sqrt{7} \times 3\sqrt{2} =$
+- $\sqrt{2} \times \sqrt{17} =$
+- $\sqrt{7} + \sqrt{8} + \sqrt{8} = $
+
+---
+## 13. perform those operations with Surds 
+- $\sqrt{a} + \sqrt{a} + \sqrt{a} + \sqrt{a} =$
+- $8\sqrt{6} - 6\sqrt{6} =$
+- $\sqrt{6} \times 6\sqrt{v} =$
+- $\sqrt{5x} \times 2\sqrt{y} =$
+
+---
+## 14. perform those operations with Surds 
+- $5\sqrt{5} + 2\sqrt{5} + 4\sqrt{5} + 5\sqrt{5} =$
+- $\sqrt{6} \times \sqrt{12} =$
+- $\sqrt{3} \times \sqrt{20} =$
+- $\sqrt{m} \times \sqrt{o} \times \sqrt{n} =$
+
+---
+## 15. perform those operations with Surds 
+- $\sqrt{47} \times 3\sqrt{33} + 47\sqrt{33} - 11\sqrt{33} =$
+- $2\sqrt{6} + 2\sqrt{6} - 4\sqrt{3} =$
+- $\sqrt{28} \times \sqrt{12} =$
+- $\sqrt{f} \times \sqrt{g} =$
+
+---
+## 16. 
+- Explain in your own words how to multiply/divide radicals/surds.
+- Explain in your own words how to add/substract radicals/surds.  
+
+---
+## 17. simplify the following 
+- $10\sqrt{2} + 14\sqrt{2}=$
+- $5\sqrt{5} + 9\sqrt{5}- 7\sqrt{5}=$
+- $8\sqrt{2} + 2\sqrt{11}+ 2\sqrt{2}+4\sqrt{11}=$
+
+---
+## 17. simplify the following 
+- $12\sqrt{3} - 3\sqrt{3}=$
+- $10\sqrt{6} - 3\sqrt{6}+ 20\sqrt{6}=$
+- $7\sqrt{11} + 28\sqrt{5} - 25\sqrt{11}-11\sqrt{5}=$
+
+---
+## 17. simplify the following 
+- $\sqrt{5} x \sqrt{7}=$
+- $8 x 10\sqrt{5}=$
+- $8\sqrt{6} x (-8\sqrt{5})=$
+- $(-7\sqrt{21}) : x (7\sqrt{7})=$
+
+  
+
+  
+
+
+
+
 
