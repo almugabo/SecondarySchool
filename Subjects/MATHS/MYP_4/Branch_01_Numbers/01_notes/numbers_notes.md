@@ -163,6 +163,11 @@ Now you will learn how to round
 
 
 ---
+## 4 
+
+Scientific notation ... see PDF document ("scientific_notation.pdf") 
+
+---
 ## 5. Radicals and Surds 
 
 the radical symbol =  $\sqrt{}$ 
