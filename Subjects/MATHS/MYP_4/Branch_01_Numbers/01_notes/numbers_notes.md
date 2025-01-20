@@ -6,9 +6,33 @@
 3. rounding
 4. Scientific Notation
 5. radicals and surds
+----
+## 1. Number sets
 
+there are 6 number sets 
+
+1. **Natural numbers $(N$)** are the counting numbers: 1, 2, 3, …  
+2. **Whole numbers $(W$)** are the naturals **plus zero**: 0, 1, 2, …  
+3. **Integers $(Z$)** add the negative whole numbers: … -2, -1, 0, 1, 2, …  
+4. **Rational numbers $(Q$)** are any numbers that can be written as a fraction \$tfrac{p}{q}$.  
+5. **Irrational numbers $(I$)** cannot be expressed as a fraction (e.g., \$sqrt{2}$, \$pi$).  
+6. **Real numbers $(R$)** include **all** the above (both rational and irrational).  
+
+One way to remember them : 
+
+
+**"No Worries, I Rarely Ignore Reality."**
+
+- **N** - **N**atural Numbers (e.g., 1, 2, 3, …)  
+- **W** - **W**hole Numbers (Natural Numbers + 0, e.g., 0, 1, 2, …)  
+- **I** - **I**ntegers (Whole Numbers + negatives, e.g., … -2, -1, 0, 1, 2, …)  
+- **R** - **R**ational Numbers (fractions or decimals that terminate/repeat, e.g., 1/2, -3.5, 4, …)  
+- **I** - **I**rrational Numbers (non-repeating, non-terminating decimals, e.g., π, √2, …)  
+- **R** - **R**eal Numbers (all Rational + Irrational numbers)
 
 ---
+
+
 ## 2. Power exponents 
 | **Rule**                | **Symbolism**                     | **Example**                           | **Definition**                                                                 |
 |--------------------------|------------------------------------|----------------------------------------|--------------------------------------------------------------------------------|
