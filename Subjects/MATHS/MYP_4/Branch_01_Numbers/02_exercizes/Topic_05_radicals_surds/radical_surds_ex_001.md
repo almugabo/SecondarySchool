@@ -155,20 +155,31 @@ Explain, step by step, how to simplify the surd $\sqrt{72}$. Justify each step y
 - $8\sqrt{2} + 2\sqrt{11}+ 2\sqrt{2}+4\sqrt{11}=$
 
 ---
-## 17. simplify the following 
+## 18. simplify the following 
 - $12\sqrt{3} - 3\sqrt{3}=$
 - $10\sqrt{6} - 3\sqrt{6}+ 20\sqrt{6}=$
 - $7\sqrt{11} + 28\sqrt{5} - 25\sqrt{11}-11\sqrt{5}=$
 
 ---
-## 17. simplify the following 
+## 19. simplify the following 
 - $\sqrt{5} x \sqrt{7}=$
 - $8 x 10\sqrt{5}=$
 - $8\sqrt{6} x (-8\sqrt{5})=$
 - $(-7\sqrt{21}) : x (7\sqrt{7})=$
 
-  
+---
 
+## 19. State whether the following equations are true or false. If false, then correct the statement
+
+- a. $\sqrt{11} + \sqrt{5} = \sqrt{16}$
+- b. $\sqrt{4} + \sqrt{4} = 4$
+- c. $\sqrt{4} - \sqrt{1} = \sqrt{3}$  
+- d. $\sqrt{32} + \sqrt{2} = \sqrt{34}$
+
+---
+
+
+-
   
 
 
