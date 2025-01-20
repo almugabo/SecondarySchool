@@ -9,6 +9,54 @@
 
 
 ---
+## 2. Power exponents 
+| **Rule**                | **Symbolism**                     | **Example**                           | **Definition**                                                                 |
+|--------------------------|------------------------------------|----------------------------------------|--------------------------------------------------------------------------------|
+| **Zero Exponent**        | $$a^0 = 1$$                       | $$2^0 = 1$$                            | Anything raised to the power of 0 is 1.                                       |
+| **Negative Exponent**    | $$a^{-m} = \frac{1}{a^m}$$        | $$2^{-5} = \frac{1}{2^5} = \frac{1}{32}$$ | A negative exponent tells you that the factor is on the wrong side of the fraction bar. ($$a \neq 0$$) |
+| **Product Rule**         | $$a^m \cdot a^n = a^{m+n}$$       | $$2^2 \cdot 2^3 = 2^{2+3} = 2^5 = 32$$ | When multiplying, and the bases are the same, **ADD** the exponents.          |
+| **Quotient Rule**        | $$\frac{a^m}{a^n} = a^{m-n}$$     | $$\frac{2^5}{2^2} = 2^{5-2} = 2^3 = 8$$ | When dividing, and the bases are the same, **SUBTRACT** the exponents.        |
+| **Power to a Power**     | $$(a^m)^n = a^{m \cdot n}$$       | $$(2^4)^3 = 2^{4 \cdot 3} = 2^{12} = 4096$$ | When raising a power to a power, **MULTIPLY** the exponents.                  |
+| **Product to a Power**   | $$(ab)^m = a^m \cdot b^m$$        | $$(3b)^3 = 3^3 \cdot b^3 = 27b^3$$     | When raising a product to a power, each factor gets raised to the new power.  |
+| **Quotient to a Power**  | $$\left(\frac{a}{b}\right)^m = \frac{a^m}{b^m}$$ | $$\left(\frac{2}{3}\right)^2 = \frac{2^2}{3^2} = \frac{4}{9}$$ | When raising a quotient to a power, both top and bottom get raised to the new power. |
+| **Fractional Exponent**  | $$a^{\frac{m}{n}} = \sqrt[n]{a^m}$$ | $$8^{\frac{2}{3}} = \sqrt[3]{8^2} = 4$$ | By using the fractional exponents rule, the fractional power turns into a radical. |
+
+
+### some important terms 
+
+
+1. **Power**:
+   - A power represents the result of raising a base number to an exponent. It is the complete expression.
+   - For example, in $2^3$, the power is $2^3 = 8$.
+
+2. **Exponent**:
+   - An exponent indicates how many times the base is multiplied by itself.
+   - For example, in $2^3$, the exponent is $3$, which means $2 \times 2 \times 2$.
+
+3. **Base**:
+   - The base is the number that is being raised to the power of the exponent.
+   - For example, in $2^3$, the base is $2$.
+
+4. **Radical**:
+   - A radical is the root of a number, often represented with the radical symbol ($\sqrt{}$).
+   - For example, $\sqrt{16} = 4$ because $4^2 = 16$.
+
+5. **Fractional Exponent**:
+   - A fractional exponent combines powers and roots. The numerator of the fraction represents the power, and the denominator represents the root.
+   - For example, $a^{\frac{m}{n}} = \sqrt[n]{a^m}$. If $a = 8$, $m = 2$, and $n = 3$, then $8^{\frac{2}{3}} = \sqrt[3]{8^2} = 4$.
+
+6. **Negative Exponent**:
+   - A negative exponent flips the base to its reciprocal and makes the exponent positive.
+   - For example, $a^{-n} = \frac{1}{a^n}$. If $a = 2$ and $n = 3$, then $2^{-3} = \frac{1}{2^3} = \frac{1}{8}$.
+
+7. **Zero Exponent**:
+   - Any non-zero base raised to the power of zero equals $1$.
+   - For example, $a^0 = 1$ (as long as $a \neq 0$).
+
+
+
+
+----
 
 ## 5. Radicals and Surds 
 
