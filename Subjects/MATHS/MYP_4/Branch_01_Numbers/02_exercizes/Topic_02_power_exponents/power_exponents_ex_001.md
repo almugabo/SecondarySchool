@@ -96,3 +96,88 @@ Bacteria A doubles every hour, while Bacteria B triples every two hours.
   Which bacteria will have a larger population after 6 hours? Justify your answer.
 
 ---
+
+## Simplify. 
+- $4^2 \cdot 4^2$ 
+- $4 \cdot 4^2$ 
+- $5^4 \div 5^1$ 
+- $3^1 \div 3^1$ 
+- $(2x^2)^2$ 
+- $(3ab)^4$ 
+- $(2x^3y^4)^3$ 
+
+---
+## Simplify. 
+- $3^2 \cdot 3^2$ 
+- $2 \cdot 2^2 \cdot 2^2$ 
+- $2n^4 \cdot 5n^4$ 
+- $2^4 \div 2^2$ 
+- $3r^3 \div 2r$ 
+- $(7k)^2$ 
+- $(2p \cdot 2p)^2$ 
+- $(4n^2 \cdot n^2)^2$
+
+---
+## Simplify. 
+- $(x^2)^3$ 
+- $6r \cdot 5r^2$ 
+- $2n^2 \cdot 6n$ 
+- $6x \cdot x$ 
+- $(2b^3)^4$
+- $8m^3 \div 10m^3$ 
+- $7n^3 \div 2n^5$
+
+----
+## Simplify. 
+- $5b^2 \cdot 8b$ 
+- $4x^2 \cdot 3x$ 
+- $10p^4 \div 6p$ 
+- $3b \div 10b^5$ 
+- $(5mn^2)^3$ 
+- $(x^2y^2)^2$ 
+
+---
+## Simplify. 
+- $6x \cdot 2x^2$ 
+- $6x \cdot 6x^3$
+- $2^2 \div 2^3$ 
+- $7k^2 \div 4k^3$ 
+- $(p^3)^4$ 
+- $(k^3)^4$
+
+
+---
+## Simplify. 
+- $(2x^4y)^4$ 
+- $(3x^2 \cdot 2x^2)^2$ 
+- $7u^3 \cdot 10u^5 \cdot 8u^3$ 
+- $9x^2 \cdot 9x^5y^2$ 
+- $6m^3n^2 \cdot 8m^2n^3$ 
+
+----
+## Simplify. 
+- $6x^2 \cdot 6x^3y^4$ 
+- $9u^5 \cdot 9uv^3$ 
+- $(6yx)^2$ 
+- $(u^4y^3)^2$ 
+
+---
+## Simplify. 
+- $11v \cdot 4uv^5$ 
+- $(3x^3)^4$ 
+- $(6b^2)^2$ 
+- $(7y^2)$ 
+- $(3x \cdot 2x)^2$ 
+
+## Simplify. 
+- $10x^3 \cdot 8x^3y^3$ 
+- $3u^4v^5 \cdot 7u^2v^3$ 
+-(3a^2)^3$ 
+- $(2n^4)^4$ 
+- $(4x^4 \cdot x)^3$ 
+- $(4n^4 \cdot n)^2$
+----
+
+
+
+
