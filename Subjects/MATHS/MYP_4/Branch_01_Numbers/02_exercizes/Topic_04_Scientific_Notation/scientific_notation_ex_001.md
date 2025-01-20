@@ -12,7 +12,7 @@ Convert the following numbers into scientific notation:
 ---
 
 ## 2. Converting from Scientific Notation
-Convert the following numbers from scientific notation to decimal notation:
+Convert the following numbers from scientific notation to nornal/decimal notation:
 
 - $4.5 \times 10^6$  
 - $2.1 \times 10^{-4}$  
@@ -22,7 +22,7 @@ Convert the following numbers from scientific notation to decimal notation:
 ---
 
 ## 3. Which is Larger?
-Determine which number is larger without converting to edcimal notation. Explain your reasoning:
+Determine which number is larger without converting to nomal/decimal notation. Explain your reasoning:
 
 - $3.4 \times 10^5$ or $8.9 \times 10^3$  
 - $1.2 \times 10^{-6}$ or $5.6 \times 10^{-8}$  
@@ -35,7 +35,7 @@ Determine which number is larger without converting to edcimal notation. Explain
   - $0.000045$  
   - $12,300,000$  
 
-- Convert the following numbers from scientific notation to decimal form:  
+- Convert the following numbers from scientific notation to normal/decimal form:  
   - $3.2 \times 10^5$  
   - $1.5 \times 10^{-4}$  
 
