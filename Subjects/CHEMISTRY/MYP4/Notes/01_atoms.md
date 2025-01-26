@@ -83,11 +83,15 @@ Remember:
 - mass number is an integer (number of neutrons) but relative atomic mass can have decimals (as it is an average) 
 
 
+### 6. Arrangment of electrons 
 
----
-
-
-3. **Importance of Electrons**: Chemical bonds (which hold atoms together in compounds) involve the electrons in these outer shells.
+- The electrons in an atom are in energy levels, also known as shells.
+- Electrons occupy the lowest available energy levels.
+- Arrangements
+ - The lowest energy level (the first shell) is the one closest to the nucleus and can hold up to two electrons.
+ - Up to eight electrons occupy the second energy level (the second shell)
+ - with the next eight electrons occupying the third energy level (third shell).
+ - The next two electrons occupy the fourth energy level (fourth shell).
 
 
 ---
