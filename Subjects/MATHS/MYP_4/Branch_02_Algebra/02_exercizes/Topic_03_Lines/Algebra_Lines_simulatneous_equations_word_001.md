@@ -94,3 +94,14 @@ A baker is making cakes and pies for a competition. She used 4 cups of flour and
 **The Toy Store** 
 
 A toy store sells toy cars and toy trucks. They have a total of 250 toys on their shelf. If there are 3 times as many toy cars as toy trucks. How many of each toy is on the shelf?
+
+---
+**triangle**
+
+A equilateral triangle has three sides : AB with length 3x + 2y, BC with length 11 + x - 2y and AC with length 3y-1 
+
+all lengths are in centimeters. 
+- (a)  form two simultaneous equations and solve them to find the value of x and value of y 
+- (b) now find the length of the side of the triangle 
+
+---
