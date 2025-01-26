@@ -1,12 +1,24 @@
 # Chemistry 
 
 
+## Outline - notes 
+
+1. Atoms: The Building Blocks of Matter
+2. Chemical Bonding: Why and How Atoms Stick Together
+3. Molecules & Ions 
+4. Chemical Equation
+5. Stoichiometry : the concept of Mole 
+
+
+
+## Book 
+
 CK-12 Physical Science for Middle School
 
 By CK-12 | Last Modified: 22/01/2025, 01:58am
 
 
-### Topics 
+### Topics : assigned 
 
 
 4. periodic table
