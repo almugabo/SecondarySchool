@@ -105,3 +105,69 @@ all lengths are in centimeters.
 - (b) now find the length of the side of the triangle 
 
 ---
+**pay**
+A woman is paid €$x$ per hour for a 30-hour week and is paid €$y$ for each hour overtime worked. In a particular week, she worked 35 hours and received €660. The following week, she worked 42 hours and received €828.  
+
+Write two equations in $x$ and $y$ and solve them to find their values.
+
+---
+** hiring a car**
+
+The cost €$C$ of hiring a car for $n$ days is given by the formula $C = a + bn$, where $a, b \in \mathbb{N}$.  
+
+It costs €420 for 5 days and €870 for 11 days to hire a car.  
+
+Write two equations in $a$ and $b$ and solve them to find their values.  
+  
+Hence, find the cost of hiring a car for 15 days.
+
+---
+**line**
+At what point do the lines $2x + 3y = 1$ and $5x - 2y = 12$ intersect?
+
+---
+** parallelogram*
+The shape $ABCD$ is a parallelogram.  
+- AB = 5x+y+5
+- BC = 7-x-2y
+- CD = 3x+4y+8 
+- DA = x-y
+Write two equations in $x$ and $y$ and solve them to find their values.
+
+---
+**age**
+A mother is $x$ years old, her son is $y$ years old, and the sum of their ages is 58 years.  
+
+Five years ago, the mother was five times as old as the son.  
+
+Write two equations in $x$ and $y$ and solve them to find the age of the mother and the age of the son.
+
+---
+**numbers**
+When the numerator of a certain fraction is increased by 3 and the denominator increased by 1, its value changes to $1 \frac{1}{4}$, but when the numerator is increased by 4 and the denominator is decreased by $1 \frac{1}{2}$, its value is equal to 4.  
+
+Find the original fraction.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
