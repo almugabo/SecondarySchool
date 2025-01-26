@@ -8,7 +8,6 @@
 
 Atoms are composed of **three main types of subatomic particles**: protons, neutrons, and electrons. 
 
-
 1.	**Protons** have a positive charge and are located in the nucleus. They help define what element an atom is—for example, an atom with one proton is hydrogen, while an atom with six protons is carbon.
 2.	**Neutrons** have no charge but add mass to the atom. They are also located in the nucleus. Atoms of the same element can have different numbers of neutrons, which are called isotopes. For instance, most carbon atoms have six neutrons, but some have seven or eight.
 3.	**Electrons** are negatively charged and are found outside the nucleus. They are much smaller and lighter than protons or neutrons. The arrangement of electrons in an atom determines how it will interact with other atoms—this is the basis of chemical reactions.
@@ -54,6 +53,10 @@ This notation has three parts:
 
 ### 5. Isotopes and Ions 
 
+While atoms of the same element have the same number of protons:
+- the number of neutrons can vary (isotopes)
+- the number of electron can vary too (ions)
+
 #### 5.1 Isotope
 
  - Remember: Atoms have an overall neutral charge, so an atom must have the same number of protons and electrons.
@@ -64,7 +67,20 @@ This notation has three parts:
 
 #### 5.2 Ions
 
+- atom which has a charge is called **ION**. It can have a charge if it has fewer or more electrons than protons
+- if it is positively charge , it has fewer electrons (than protons)
+- if it is negatively charged, it has more electrons (than protons)
 
+
+RECAP:
+- **Isotopes**: atoms with the same number of protons, but a different number of neutrons 
+- **Ion**: an electrically charged atom containing different numbers of protons and electrons 
+
+Remember:
+
+- because most of the mass of an atom is in the nucleus, the isotopes of an elements can be differ in weight (heavy or lighter) 
+- this is the reason in *periodic table*, they use the **average of mass number**: This is called **relative atomic mass**
+- mass number is an integer (number of neutrons) but relative atomic mass can have decimals (as it is an average) 
 
 
 
