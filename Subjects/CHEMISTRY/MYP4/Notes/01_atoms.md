@@ -85,14 +85,15 @@ Remember:
 
 ### 6. Arrangment of electrons 
 
-- The electrons in an atom are in energy levels, also known as shells.
+- The electrons in an atom are in **energy levels**, also known as *shells*.
 - Electrons occupy the lowest available energy levels.
-- Arrangements
+- Arrangements :**2,8,8,8**
  - The lowest energy level (the first shell) is the one closest to the nucleus and can hold up to two electrons.
- - Up to eight electrons occupy the second energy level (the second shell)
- - with the next eight electrons occupying the third energy level (third shell).
- - The next two electrons occupy the fourth energy level (fourth shell).
+ - All other levels can hold up to 8 electrons (second, third, fourth shell)
+ - so it is 2,8,8 unless you don't have enough electrons to fill in the shell 
 
+
+ 
 
 ---
 *add later*
