@@ -52,6 +52,21 @@ This notation has three parts:
 -	The total number of protons and neutrons is called the mass number (we don’t add the electrons since they are so light that they barely contribute to the mass) 
 -	The number of protons in the nucleus is called the atomic number. (remember an atom has the same number of protons and electrons: to balance each other out) 
 
+### 5. Isotopes and Ions 
+
+#### 5.1 Isotope
+
+ - Remember: Atoms have an overall neutral charge, so an atom must have the same number of protons and electrons.
+- But an atom of the same element (that means with the same number of protons) can have different numbers of neutrons. 
+- Atoms of the same element, that is, with the same number of protons in the nucleus, but with differing numbers of neutrons are called isotopes. 
+- The isotopes of the same element have the same number of protons, that means they also have the same number of electrons and therefore the same chemical properties. 
+- The different number of neutrons gives them a different mass (i.e. they are heavier or lighter) but this does not affect the chemical properties.
+
+#### 5.2 Ions
+
+
+
+
 
 ---
 
