@@ -135,7 +135,90 @@ Use algebraic manipulation and Desmos (optional for verification, but encouraged
    Can you find relationships between a₁, b₁, c₁, a₂, b₂, and c₂ that predict the number of solutions? (This is more advanced, but encourage students to think about it if they are ready).
 
 
+---
+
+## Investigation 3 
+
+Below are two real-world scenarios (phone plans and streaming services) that translate naturally into systems of linear equations. Each scenario includes **detailed, step-by-step questions** that guide students to set up the equations, graph them, and interpret the results (one solution, no solution, or infinitely many solutions) in a real-life context.
+
+---
+
+## **Scenario A: Choosing Between Two Phone Plans**
+
+### **Context and Setup**
+
+- **Plan A**: Monthly cost = \$20 + \$0.10 per minute.  
+  In equation form: $C_A = 20 + 0.10x$,  
+  where $x$ is the number of minutes used, and $C_A$ is the total monthly cost.
+
+- **Plan B**: Monthly cost = \$10 + \$0.15 per minute.  
+  \(\quad\)In equation form: \( C_B = 10 + 0.15x \).
+
+### **Questions**
+
+1. **Modeling**  
+   - Write the cost equation for Plan A in terms of \(x\).  
+   - Write the cost equation for Plan B in terms of \(x\).
+
+2. **Graphing**  
+   - On graph paper or using Desmos, plot both lines \(C_A\) and \(C_B\) on the same set of axes, with the horizontal axis as \(x\) (minutes) and the vertical axis as \(C\) (cost).
+
+3. **Finding the Intersection**  
+   - Solve the equations simultaneously to find the number of minutes \(x\) at which both plans cost the same (i.e., \(20 + 0.10x = 10 + 0.15x\)).  
+   - Label this point \((x, C)\) on the graph and interpret what it means in real life.
+
+4. **Interpretation**  
+   - If you typically use fewer minutes than the intersection point, which plan is cheaper?  
+   - If you typically use more minutes than the intersection point, which plan is cheaper?
+
+5. **Exploring No Solution / Infinite Solutions**  
+   - **No Solution**: What would happen if both plans had the *same per-minute cost* (same slope) but *different* monthly fees (different intercepts)? Write two new equations to represent that situation. Are those lines parallel on your graph?  
+   - **Infinite Solutions**: Imagine both companies offer the *exact same* monthly fee and the *exact same* per-minute cost. Write that system of equations and check how many intersection points appear. Why does that make sense in a real-world context?
+
+**Teacher Tip**:  
+- This scenario typically yields **one intersection** if the two slopes (per-minute fees) are different.  
+- If the slopes are the same and the base fees are different, the lines are parallel (\(\rightarrow\) **no solution**).  
+- If both the slope and intercept match, you get **infinitely many solutions** (they’re the *same* plan!).
+
+---
+
+## **Scenario B: Comparing Netflix vs. Hulu**
+
+### **Context and Setup**
+
+- **Netflix**: A simple plan costs \$15 per month, unlimited streaming (no hourly charge).  
+  $\quad$ Equation form: \( C_N = 15 \).  
+- **Hulu**: A basic plan costs \$8 per month plus \$0.70 for every hour watched.  
+  \(\quad\)Equation form: \( C_H = 8 + 0.70h \),  
+  where \( h \) = total hours watched in the month, and \( C_H \) = total cost.
+
+### **Questions**
+
+1. **Modeling**  
+   - Write down the equation that represents Netflix’s monthly cost (\(C_N\)).  
+   - Write down the equation that represents Hulu’s monthly cost (\(C_H\)).
+
+2. **Graphing**  
+   - Plot both cost lines on the same axes: let the horizontal axis be \(h\) (hours watched) and the vertical axis be \(C\) (monthly cost).  
+   - For Netflix, the graph is a *horizontal line* (no extra charge per hour).  
+   - For Hulu, the graph is a line that *increases* as \(h\) increases.
+
+3. **Finding the Intersection**  
+   - Solve \(15 = 8 + 0.70h\) to see at how many hours the two services cost exactly the same.  
+   - Label that intersection point \((h, C)\) on your graph.
+
+4. **Interpretation**  
+   - If you plan to watch *more* hours than the intersection point, which service becomes cheaper?  
+   - If you watch *fewer* hours, which service is cheaper?
+
+5. **Try Altering Hulu’s Pricing**  
+   - Suppose Hulu changes to a *flat* \$15 monthly with *no* hourly charge. Rewrite Hulu’s equation. How does this affect the graph? How many solutions do Netflix and Hulu have now?  
+   - Suppose Hulu changes to \$15 monthly plus \$1.50 per hour: \( C_H = 15 + 1.50h \). Now, compare slopes and intercepts with Netflix’s \$15 flat fee. Do these lines intersect once, never, or coincide?
+
+6. **No Solution / Infinite Solutions Cases**  
+   - **No Solution**: If both Netflix and Hulu had the *same slope* but *different* intercepts, would you ever find a point where they cost the same?  
+   - **Infinite Solutions**: If Netflix and Hulu had the *exact same plan* (same intercept, same hourly rate, or no hourly rate at all), how many solutions would you see? Explain in words.
 
 
-
+---
 
