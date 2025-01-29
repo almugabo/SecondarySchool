@@ -1,11 +1,8 @@
 
 ## investigation 1 
 
-Below is one example of a follow‐on activity that reinforces the same big ideas (one solution / no solutions / infinitely many solutions) but lets students *actively* discover the patterns by “playing” with parameters. The idea is for them to see directly how changing slopes and intercepts affects solutions, and then articulate the rules they discover.
 
----
-
-### **Proposed Exercise: Exploring Families of Lines**
+### ** Exploring Families of Lines**
 
 **Objective:**  
 Help students discover (and then state) the conditions for one solution, no solutions, and infinitely many solutions by systematically manipulating parameters in linear equations.
@@ -41,12 +38,7 @@ Help students discover (and then state) the conditions for one solution, no solu
    - **How many solutions does the system have?**  
 
 4. **Verbalize the Rule**  
-   Finally, have them write down in words the general “rules” they have discovered:
-   1. **Different slopes** \(\implies\) exactly one intersection point (one solution).  
-   2. **Same slope, different intercept** \(\implies\) parallel lines (no solutions).  
-   3. **Same slope, same intercept** \(\implies\) same line (infinitely many solutions).
-
-
+   Write down in words, the “rules” you have discovered.
 
 ### Extensions and Additional Variations
 
@@ -56,10 +48,11 @@ Help students discover (and then state) the conditions for one solution, no solu
 
 
 2. **Three Lines**  
-   Add a third line \(y = m_3 x + b_3\). Ask:  
+   Add a third line $y = m_3 x + b_3$. Ask:  
    - Under what conditions do all three lines meet at a single point (one common intersection)?  
    - Is it possible for all three lines to coincide? (Infinitely many solutions.)  
    - Can you arrange them to have no common intersection?
+
 
 ---
 
