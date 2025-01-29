@@ -4,9 +4,6 @@
 
 ### ** Exploring Families of Lines**
 
-**Objective:**  
-Help students discover (and then state) the conditions for one solution, no solutions, and infinitely many solutions by systematically manipulating parameters in linear equations.
-
 1. **Set up parameters with sliders**  
    - In Desmos, type:
      
@@ -14,7 +11,7 @@ Help students discover (and then state) the conditions for one solution, no solu
      
      $$y = m_2x + b_2$$
    - Click “add slider” for each of $m_1, b_1, m_2, b_2$.  
-   - This creates four sliders that students can move.
+   - This creates four sliders you can move.
 
 2. **Experiment and Observe**  
    - ** 2.1. Vary the Slopes**: Move $m_1$ and $m_2$ while keeping $b_1$ and $b_2$ fixed.  
@@ -28,12 +25,12 @@ Help students discover (and then state) the conditions for one solution, no solu
      - **How many points of intersection do they have?**  
 
 3. **Record Your Findings**  
-   Create a small table or list in which students record:  
+   Create a small table or list in which you can record:  
    - **Case 1**: $m_1 \neq m_2$
    - **Case 2**: $m_1 = m_2$ but $b_1 \neq b_2$  
    - **Case 3**: $m_1 = m_2$ and $b_1 = b_2$  
 
-   For each case, have them write:
+   For each case, write:
    - **Are the lines parallel, coincident, or intersecting in exactly one point?**  
    - **How many solutions does the system have?**  
 
