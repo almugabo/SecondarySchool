@@ -214,3 +214,74 @@ b) How many weeks will it take for Maria to save enough to buy the bicycle? Show
 c) If Maria decides to save an additional 10 euros per week, how does this change the equation? How many weeks will she now need? 
 
 
+----
+### Q27 
+
+**translate the following in equations (not solve them)**
+
+-  Lisa has twice as many apples as Mark. 
+- The new model is triple the cost of the old model. 
+- The length of the new table is four times as long as the original.
+- A VIP ticket costs one and a half times as much as a standard ticket.
+- The population of Town A is two and a half times the population of Town B.
+- The new machine uses half as much energy as the old one.
+- A number is n times as big as another number.
+- I have four times as much money as Bob
+- A number is 10 less than twice another number.
+- The length is 2.5 times the width.
+- the second number is half the smaller number.
+- the new number is five more than three times a number
+- The price of a smartphone is three dollars more than twice the price of a basic phone.
+- The score of Team A is triple the score of Team B.
+- The number of pages in the new edition is double the number of pages in the old edition.
+- The age of the oldest child is four years more than twice the age of the youngest child.
+- The speed of a car is one and a quarter times the speed of a bicycle.
+- The cost of a train ticket is five dollars less than three times the cost of a bus ticket.
+- The volume of liquid in Container A is three times as much as that in Container B.
+- The value of an investment is 2.5 times the original amount.
+
+1.  The height of the building is one-third of the width.
+2.  The number of girls is 20% more than the number of boys.
+3.  The discount is a quarter of the original price.
+4.  The new salary is 10% less than the previous salary.
+5.  The area of the garden is twice the square of its side length (if side length is 's').
+6.  The angle is 30 degrees less than half of a right angle.
+7.  The number of students attending the event is expected to be 50 more than last year's count.
+8.  The profit is shared equally among four partners.
+9.  The tax amount is 8% of the total purchase price.
+10. The second train travels at three-quarters the speed of the first train.
+11. The volume of the cube is the cube of its edge length (if edge length is 'e').
+12. The perimeter of a square is four times the length of one side (if side length is 'l').
+13. The number of red marbles is five less than twice the number of blue marbles.
+14. The final score is the sum of the midterm score and twice the final exam score.
+15. The decrease in temperature is half of what it was yesterday.
+16. The increase in sales is 15% of last month's sales.
+17. The amount of sugar needed is three-fifths of the amount of flour.
+18. The number of cars in the parking lot is double the number of trucks plus five.
+19. The circumference of a circle is pi times its diameter (if diameter is 'd').
+20. The area of a triangle is half the product of its base and height (if base is 'b', height is 'h').
+21. The cost of materials is increased by 25% due to inflation.
+22. The number of correct answers is 7 more than three times the number of incorrect answers.
+23. The distance covered is the product of speed and time (if speed is 'v', time is 't').
+24. The selling price is the cost price plus a markup of 30%.
+25. The remaining amount is the total amount minus the amount spent.
+26. The number of seats in the stadium is 1000 less than twice the capacity of the old stadium.
+27. The weight of the box is 5 kilograms more than half the weight of the package.
+28. The number of visitors this month is expected to be one and a half times the number from last month, minus 20.
+29. The total revenue is the price per item multiplied by the number of items sold.
+30. The square of a number is nine more than the number itself.
+
+
+**NB: with percentage**
+*   **Think Aloud:** Verbalize your thought process. For example, for "The number of girls is 20% more than the number of boys," you could say:
+    *   "Okay, 'more than' usually means addition."
+    *   "'20% of the number of boys' needs to be calculated first."
+    *   "Let 'b' be the number of boys. 20% of 'b' is 0.20 * b."
+    *   "So, '20% more than the number of boys' is b + 0.20 * b."
+    *   "We can also simplify this to 1.20 * b or 1.2b."
+
+
+
+
+
+
