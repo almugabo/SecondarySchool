@@ -163,6 +163,126 @@ Graphs of motion
 
 
 
+---
+# Accelaration - the SUVAT equations 
 
+
+
+## Deriving the the SUVAT equations step-by-step starting from the definition of acceleration $a = \frac{v - u}{t}$, assuming constant acceleration.
+
+
+The term "SUVAT equations" is an acronym
+
+*   **S** - **Displacement** (sometimes denoted as $x$ or $\Delta x$ as well, but $s$ is common in SUVAT context). Displacement is the change in position of an object and is a vector quantity. It's the distance in a specific direction.
+*   **U** - **Initial velocity**. This is the velocity of the object at the *beginning* of the time interval you are considering.
+*   **V** - **Final velocity**. This is the velocity of the object at the *end* of the time interval you are considering.
+*   **A** - **Acceleration**. This is the rate of change of velocity. For SUVAT equations to be directly applicable, the acceleration must be *constant* or *uniform*.
+*   **T** - **Time**. This is the duration over which the motion is being considered. It's the time interval during which the velocity changes from $u$ to $v$ under the constant acceleration $a$.
+
+So, the acronym **SUVAT** simply lists the key variables that appear in the equations of motion for constant acceleration. It's a convenient mnemonic used primarily in introductory physics and mechanics, especially in educational settings in some parts of the world (particularly in the UK education system and those influenced by it).
+
+In summary, they are called SUVAT equations because the acronym SUVAT is formed by taking the first letter of each of the five kinematic quantities they relate: **S**isplacement, **U**nitial velocity, **V**inal velocity, **A**cceleration, and **T**ime.  It's a helpful way to remember the set of equations and the variables they involve.
+
+
+
+**1. Derivation of the first equation of motion:  $v = u + at$**
+
+*   **Start with the definition of acceleration:**
+    Acceleration is defined as the rate of change of velocity. For constant acceleration, we can write it as:
+    $a = \frac{\text{Change in velocity}}{\text{Time taken}}$
+
+*   **Express "Change in velocity" and "Time taken" in terms of initial and final velocities and time:**
+    Let:
+    *   $u$ be the initial velocity at time $t=0$
+    *   $v$ be the final velocity at time $t$
+    *   $a$ be the constant acceleration
+    *   $t$ be the time interval
+
+    Then, the change in velocity is $v - u$, and the time taken is $t - 0 = t$.
+
+*   **Substitute these into the definition of acceleration:**
+    $a = \frac{v - u}{t}$
+
+*   **Rearrange the equation to solve for $v$ (final velocity):**
+    Multiply both sides by $t$:
+    $at = v - u$
+    Add $u$ to both sides:
+    $v = u + at$
+
+    This is the first equation of motion.
+
+**2. Derivation of the second equation of motion: $s = ut + \frac{1}{2}at^2$**
+
+*   **Consider the definition of average velocity for uniform acceleration:**
+    For uniform (constant) acceleration, the average velocity ($\bar{v}$) over a time interval is the average of the initial and final velocities:
+    $\bar{v} = \frac{u + v}{2}$
+
+*   **Relate average velocity to displacement and time:**
+    Average velocity is also defined as the total displacement divided by the total time:
+    $\bar{v} = \frac{s}{t}$
+    where $s$ is the displacement.
+
+*   **Equate the two expressions for average velocity:**
+    $\frac{s}{t} = \frac{u + v}{2}$
+
+*   **Substitute the first equation of motion ($v = u + at$) into this equation:**
+    $\frac{s}{t} = \frac{u + (u + at)}{2}$
+
+*   **Simplify and solve for $s$ (displacement):**
+    $\frac{s}{t} = \frac{2u + at}{2}$
+    $\frac{s}{t} = \frac{2u}{2} + \frac{at}{2}$
+    $\frac{s}{t} = u + \frac{1}{2}at$
+    Multiply both sides by $t$:
+    $s = (u + \frac{1}{2}at)t$
+    $s = ut + \frac{1}{2}at^2$
+
+    This is the second equation of motion.
+
+**3. Derivation of the third equation of motion: $v^2 = u^2 + 2as$**
+
+*   **Start with the first equation of motion and solve for $t$:**
+    $v = u + at$
+    $v - u = at$
+    $t = \frac{v - u}{a}$
+
+*   **Substitute this expression for $t$ into the second equation of motion:**
+    $s = ut + \frac{1}{2}at^2$
+    $s = u\left(\frac{v - u}{a}\right) + \frac{1}{2}a\left(\frac{v - u}{a}\right)^2$
+
+*   **Simplify the equation:**
+    $s = \frac{u(v - u)}{a} + \frac{1}{2}a\frac{(v - u)^2}{a^2}$
+    $s = \frac{uv - u^2}{a} + \frac{1}{2}\frac{(v - u)^2}{a}$
+    $s = \frac{uv - u^2}{a} + \frac{1}{2a}(v^2 - 2uv + u^2)$
+    To combine the terms, let's get a common denominator of $2a$:
+    $s = \frac{2(uv - u^2)}{2a} + \frac{(v^2 - 2uv + u^2)}{2a}$
+    $s = \frac{2uv - 2u^2 + v^2 - 2uv + u^2}{2a}$
+    $s = \frac{v^2 - u^2}{2a}$
+
+*   **Rearrange to solve for $v^2$:**
+    Multiply both sides by $2a$:
+    $2as = v^2 - u^2$
+    Add $u^2$ to both sides:
+    $v^2 = u^2 + 2as$
+
+    This is the third equation of motion.
+
+**4. Derivation of the fourth equation of motion: $s = \frac{(u+v)}{2}t$**
+
+*   **Start with the definition of average velocity for uniform acceleration:**
+    $\bar{v} = \frac{u + v}{2}$
+
+*   **Use the relationship between average velocity, displacement, and time:**
+    $\bar{v} = \frac{s}{t}$
+
+*   **Equate the two expressions for average velocity:**
+    $\frac{s}{t} = \frac{u + v}{2}$
+
+*   **Rearrange to solve for $s$ (displacement):**
+    Multiply both sides by $t$:
+    $s = \frac{(u + v)}{2}t$
+    or
+    $s = \left(\frac{u+v}{2}\right)t$
+
+    This is the fourth equation of motion.
 
     
