@@ -130,3 +130,86 @@ d) $x^2 + 10x + 21$
 
 #### **Pool Surround**:
 A rectangular swimming pool measures $x + 6 \, \text{m}$ in length and $x + 2 \, \text{m}$ in width. If the total area is $112 \, \text{m}^2$, find the value of $x$ and the dimensions of the pool.
+
+---
+
+### factorization with different methods 
+
+**1. Greatest Common Factor (GCF) Factoring (5 Exercises)**
+
+Factor out the Greatest Common Factor from each expression:
+
+a)  $5x + 15$
+b)  $12y^2 - 18y$
+c)  $4a^3 + 8a^2 + 12a$
+d)  $10p^2q - 25pq^2$
+e)  $-6x^3y + 9x^2y^2 - 3xy^3$
+
+**2. Factoring Trinomials of the form  $x^2 + bx + c$ (5 Exercises)**
+
+Factor each trinomial:
+
+a)  $x^2 + 7x + 10$
+b)  $y^2 - 5y + 6$
+c)  $a^2 + 3a - 18$
+d)  $p^2 - 2p - 24$
+e)  $x^2 + 11x + 28$
+
+**3. Factoring Trinomials of the form $ax^2 + bx + c$ (where $a \neq 1$) - using AC Method (5 Exercises)**
+
+Factor each trinomial using the AC method:
+
+a)  $2x^2 + 7x + 3$
+b)  $3y^2 - 10y + 8$
+c)  $4a^2 + 11a - 3$
+d)  $5p^2 - 13p - 6$
+e)  $6x^2 + 17x + 12$
+
+**4. Difference of Squares (5 Exercises)**
+
+Factor each expression using the difference of squares pattern:
+
+a)  $x^2 - 16$
+b)  $a^2 - 49$
+c)  $9y^2 - 25$
+d)  $4p^2 - 81$
+e)  $100 - x^2$
+
+**Answer Keys (for your reference):**
+
+**1. GCF Factoring**
+
+a)  $5(x + 3)$
+b)  $6y(2y - 3)$
+c)  $4a(a^2 + 2a + 3)$
+d)  $5pq(2p - 5q)$
+e)  $-3xy(2x^2 - 3xy + y^2)$  (or $3xy(-2x^2 + 3xy - y^2)$ - factoring out a positive GCF is also valid)
+
+**2. Factoring Trinomials of the form  $x^2 + bx + c$**
+
+a)  $(x + 2)(x + 5)$
+b)  $(y - 2)(y - 3)$
+c)  $(a + 6)(a - 3)$
+d)  $(p - 6)(p + 4)$
+e)  $(x + 4)(x + 7)$
+
+**3. Factoring Trinomials of the form $ax^2 + bx + c$ (AC Method)**
+
+a)  $(2x + 1)(x + 3)$
+b)  $(3y - 4)(y - 2)$
+c)  $(4a - 1)(a + 3)$
+d)  $(5p + 2)(p - 3)$
+e)  $(2x + 3)(3x + 4)$
+
+**4. Difference of Squares**
+
+a)  $(x + 4)(x - 4)$
+b)  $(a + 7)(a - 7)$
+c)  $(3y + 5)(3y - 5)$
+d)  $(2p + 9)(2p - 9)$
+e)  $(10 + x)(10 - x)$  or  $(10 - x)(10 + x)$
+
+
+
+
+
