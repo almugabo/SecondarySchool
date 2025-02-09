@@ -248,9 +248,82 @@ def plot_line(m, c, xfigure_name = 'chart_01.png'):
 #plot_line(m = 1/3,  c= 4,    xfigure_name = 'chart_103.png')
 #plot_line(m = -2,   c= -6,   xfigure_name = 'chart_104.png')
 #plot_line(m = -3/4,   c= 1,   xfigure_name = 'chart_105.png')
+```
+
+---
+
+### code to generate lines with customizable intervals 
 
 
+```python
+import matplotlib.pyplot as plt
+import numpy as np
 
+def plot_line(m, c, x_increment=1, y_increment=1, x_label_interval=1, y_label_interval=1, xfigure_name='chart_01.png'):
+    """
+    Plots a line with customizable x and y axis increments and label intervals.
+
+    Args:
+        m: Slope.
+        c: Y-intercept.
+        x_increment: Increment for x-axis ticks.
+        y_increment: Increment for y-axis ticks.
+        x_label_interval: Show x-axis labels every this many ticks.
+        y_label_interval: Show y-axis labels every this many ticks.
+        xfigure_name: Filename.
+    """
+    x_values = [-10, 10]
+    y_values = [m * x + c for x in x_values]
+
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.plot(x_values, y_values, label=f"y = {m}x + {c}", color="blue")
+    ax.axhline(0, color='black', linewidth=0.8)
+    ax.axvline(0, color='black', linewidth=0.8)
+    ax.set_xlim(-10, 10)
+    ax.set_ylim(-10, 10)
+    ax.grid(color='gray', linestyle='--', linewidth=0.5)
+
+    # --- X-Axis Ticks and Labels ---
+    x_ticks = np.arange(-10, 11, x_increment)
+    ax.xaxis.set_ticks(x_ticks)
+
+    x_labels = []
+    for i, x in enumerate(x_ticks):
+        if i % x_label_interval == 0:  # Show label only at intervals
+            x_labels.append(str(x))
+        else:
+            x_labels.append("")  # Empty string for no label
+    ax.xaxis.set_ticklabels(x_labels, va='top')
+
+    # --- Y-Axis Ticks and Labels ---
+    y_ticks = np.arange(-10, 11, y_increment)
+    ax.yaxis.set_ticks(y_ticks)
+
+    y_labels = []
+    for i, y in enumerate(y_ticks):
+        if i % y_label_interval == 0:  # Show label only at intervals
+            y_labels.append(str(y))
+        else:
+            y_labels.append("") #Empty string for no label.
+    ax.yaxis.set_ticklabels(y_labels, ha='right')
+
+
+    # --- Move spines ---
+    ax.spines['left'].set_position('zero')
+    ax.spines['bottom'].set_position('zero')
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
+
+    # --- Tick parameters ---
+    ax.tick_params(axis='x', which='major', direction='out', length=6, width=0.8, colors='black', top=False, bottom=False)
+    ax.tick_params(axis='y', which='major', direction='out', length=6, width=0.8, colors='black', left=False, right=False)
+
+    plt.savefig(xfigure_name)
+    plt.show()
+    
+#plot_line(0.5, -3, x_increment=0.5, y_increment=0.5)  # X increment of 0.5, Y increment of 1    
+
+plot_line(0,-4, x_increment=1, y_increment=1, x_label_interval=2, y_label_interval=2)
 
 
 ```
