@@ -5,18 +5,16 @@
 
 import matplotlib.pyplot as plt
 
-def draw_right_triangle(a=3, b=4, filename = 'pythagoras.svg'):
+def draw_right_triangle(a=3, b=4,filename = 'pythagoras.svg'):
     """
     Draws a right triangle with sides:
       - a (vertical)
       - b (horizontal)
-      - c (diagonal, computed from a and b)
+      - c (diagonal)
     and shows a small square at the right angle.
     """
     # Coordinates of the triangle’s vertices
-    # Point A = (0, 0)
-    # Point B = (0, a)
-    # Point C = (b, 0)
+    # A = (0, 0), B = (0, a), C = (b, 0)
     x_coords = [0, 0, b]
     y_coords = [0, a, 0]
 
@@ -37,16 +35,29 @@ def draw_right_triangle(a=3, b=4, filename = 'pythagoras.svg'):
     plt.text(b/2, -0.3, r'$b$', ha='center', va='top', fontsize=14)
 
     # Label side 'c' (diagonal)
-    # A midpoint for diagonal is roughly (b/2, a/2)
+    # The midpoint of the diagonal is (b/2, a/2)
     plt.text(b/2 + 0.2, a/2 + 0.2, r'$c$', fontsize=14)
 
-    # Add the Pythagorean theorem text somewhere above the triangle
-    plt.text(b/2, a + 0.5, r'$a^2 + b^2 = c^2$', 
-             ha='center', va='bottom', fontsize=16)
+    # Calculate the midpoint of the diagonal
+    mid_x = b / 2
+    mid_y = a / 2
+
+    # Offset the text a bit along a perpendicular direction to the diagonal
+    # The diagonal vector is roughly (b, -a); a perpendicular is (a, b)
+    offset_scale = 0.2
+    offset_x = offset_scale * a
+    offset_y = offset_scale * b
+
+    # Place the Pythagorean theorem text near the midpoint of the hypotenuse
+    plt.text(mid_x + offset_x, 
+             mid_y + offset_y, 
+             r'$a^2 + b^2 = c^2$', 
+             ha='center', 
+             va='center', 
+             fontsize=16)
 
     # Draw a small square at the right angle (origin)
     square_size = 0.2
-    # Coordinates of the square in a clockwise or counter-clockwise order
     square_x = [0, square_size, square_size, 0, 0]
     square_y = [0, 0, square_size, square_size, 0]
     plt.plot(square_x, square_y, color='black')
@@ -59,6 +70,7 @@ def draw_right_triangle(a=3, b=4, filename = 'pythagoras.svg'):
     # Save the plot as an SVG file
     plt.savefig(filename, format="svg")
     plt.show()    
+  
     
 
 ```
