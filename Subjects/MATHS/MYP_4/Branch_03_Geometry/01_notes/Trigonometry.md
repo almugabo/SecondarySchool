@@ -9,4 +9,8 @@
     - $c$ is the longest side (hypothenuse)
 
 
+![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/pythagoras.svg)
+
+
+
       
