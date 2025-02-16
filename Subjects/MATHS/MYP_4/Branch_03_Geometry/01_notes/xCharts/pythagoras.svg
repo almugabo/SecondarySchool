@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-02-16T09:48:34.353631</dc:date>
+    <dc:date>2025-02-16T09:54:43.312952</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -34,22 +34,22 @@ z
 L 87 44.64 
 L 355.8 246.24 
 z
-" clip-path="url(#p86704a08b7)" style="fill: #800080; opacity: 0.5; stroke: #800080; stroke-linejoin: miter"/>
+" clip-path="url(#p7ad8df1fbc)" style="fill: #800080; opacity: 0.5; stroke: #800080; stroke-linejoin: miter"/>
    </g>
    <g id="line2d_1">
     <path d="M 87 246.24 
 L 87 44.64 
-" clip-path="url(#p86704a08b7)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p7ad8df1fbc)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_2">
     <path d="M 87 44.64 
 L 355.8 246.24 
-" clip-path="url(#p86704a08b7)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p7ad8df1fbc)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_3">
     <path d="M 87 246.24 
 L 355.8 246.24 
-" clip-path="url(#p86704a08b7)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p7ad8df1fbc)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_4">
     <path d="M 87 246.24 
@@ -57,7 +57,7 @@ L 100.44 246.24
 L 100.44 232.8 
 L 87 232.8 
 L 87 246.24 
-" clip-path="url(#p86704a08b7)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p7ad8df1fbc)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <!-- $a$ -->
@@ -179,7 +179,7 @@ z
    </g>
    <g id="text_4">
     <!-- $a^2 + b^2 = c^2$ -->
-    <g transform="translate(174.68 7.7125) scale(0.16 -0.16)">
+    <g transform="translate(215 96.095) scale(0.16 -0.16)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
 L 3431 531 
@@ -247,7 +247,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p86704a08b7">
+  <clipPath id="p7ad8df1fbc">
    <rect x="54" y="34.56" width="334.8" height="221.76"/>
   </clipPath>
  </defs>
