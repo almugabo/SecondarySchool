@@ -249,4 +249,18 @@ Simplifying a surd means rewriting it in its simplest form by ensuring that:
 2. **number inside the radical is as small as possible**.
 3. **Any fractions inside the surd are rationalized** (no surds appear in the denominator).
 
+#### LAW OF SURDS TO REMEMBER 
+
+
+1. $\sqrt{a} \times \sqrt{b} = \sqrt{ab}$
+
+2. $\sqrt{a} \times \sqrt{a} = \sqrt{a^2} = a$
+
+3. $a\sqrt{b} \times c\sqrt{d} = ac \sqrt{bd}$
+
+4. $\displaystyle \frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}$
+
+
+
+
    
