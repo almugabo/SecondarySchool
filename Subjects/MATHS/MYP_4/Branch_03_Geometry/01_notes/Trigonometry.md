@@ -12,30 +12,28 @@
 ![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/pythagoras.svg)
 
 
-
+---
       
 ## Trigonometric functions 
 
 **Remember:** 
 
-when you have a right-angled triangle, you can find the length of one side if you know the length of other two sides, using the Pythagoras Theorem 
-
+when you have a right-angled triangle, you can find the length of one side if you know the length of other two sides, using the **Pythagoras Theorem**
 
 But what if you have only the length of only one side and the measurements (in degrees) of one angle ? 
 
-In that case you can use "TRIGONOMETRY"
+In that case you can use **"TRIGONOMETRY"**
 
-Trigonometry is a branch of mathematics concerned with specific functions of angles and their application to calculations. 
+- Trigonometry is a branch of mathematics concerned with specific functions of angles and their application to calculations. 
+- The word trigonometry comes from the Greek words trigonon (“triangle”) and metron (“to measure”).
 
-The word trigonometry comes from the Greek words trigonon (“triangle”) and metron (“to measure”).
-
-Those three functions associate the ratio of two sides of a right-angled triangle with an angle. 
 
 To make things easier, we label each side of the a right-angled triangle as 
-- hypothenuse : the longest side of a right-angled triangle  
-- Opposite side : side which does not touch the angle 
-- Adjacent side : side which is the next to the angle 
+- **hypothenuse** : the longest side of a right-angled triangle  
+- **Opposite side** : side which does not touch the angle 
+- **Adjacent side** : side which is the next to the angle 
 
+![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/trigonometry_01.png)
 
 In trigonometry, we have THREE main functions 
 
@@ -43,14 +41,13 @@ Sine (Sin)
 Cosine (cos) 
 Tangent (tan) 
 
+Those three functions associate the ratio of two sides of a right-angled triangle with an angle. 
 
 The formula of the three trigonometric functions 
 
-sin theta 
-
-Cos theta 
-
-tan theta 
+*   $\sin(\theta) = \frac{\text{Opposite}}{\text{Hypotenuse}}$
+*   $\cos(\theta) = \frac{\text{Adjacent}}{\text{Hypotenuse}}$
+*   $\tan(\theta) = \frac{\text{Opposite}}{\text{Adjacent}}$
 
 an easier way to remember is to use the abbreveation SOHCAHTOA 
 
@@ -60,6 +57,7 @@ TOA = Tangent is Opposite over Adjacent
 
 trigonometry is use 
 
-- trigonometry can be used to calculate the numerical values of the missing parts of a triangle (or any shape that can be dissected into triangles)  when the values of other parts were given.
+- trigonometry can be used to
+- calculate the numerical values of the missing parts of a triangle (or any shape that can be dissected into triangles)  when the values of other parts were given.
 
-- it is used in such fields as astronomy, mapmaking, surveying, and artillery range finding. 
+- and also in many other fields like astronomy, mapmaking, surveying, and artillery range finding. 
