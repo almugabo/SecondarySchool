@@ -214,8 +214,129 @@ b) How many weeks will it take for Maria to save enough to buy the bicycle? Show
 c) If Maria decides to save an additional 10 euros per week, how does this change the equation? How many weeks will she now need? 
 
 
+---
+### Q27
+Ruth is x years old. Write, in terms of x,
+- her age 6 years ago
+- her age in 12 years time
+
+In 12 years time, Ruth will be three times as old as she was 6 years ago.  
+Find Ruth’s age now.
+
+---
+### Q28
+166 people live in an apartment block and of these, x are women.  
+There are 8 fewer men than women and there are 30 more children than women.  
+How many women live in the block?
+
+---
+### Q29
+
+When 3 is taken from four times a certain number and the result is divided by 7, the answer is 3.  
+Find the number.
+
+---
+### Q30
+
+I think of a number x.  
+I add 8 to the number and then divide the total by 3.  
+The result is the same as half the number I thought of.  
+Find the value of x.
+
+---
+### Q31
+
+One number is 3 greater than another number.  
+When one sixth of the bigger number is taken from one third of the smaller one, the result is 2.  
+Find the two numbers.
+
+---
+### Q31
+
+x and x + 1 are consecutive natural numbers.  
+When one fifth of the smaller number is added to one quarter of the larger one, the result is 7.  
+Find the value of x.
+
+
+---
+### Q32
+
+A father is 30 years older than his son.  
+When one fifth of the father’s age is added to one third of the son’s age, the result is 14 years.  
+Find the son’s age.
+
+---
+### Q33
+
+The cost of hiring a taxi from the airport is  
+C = 3 + 1.5k, where C is the cost in euro and k is the number of kilometers driven.  
+- Find the cost of a journey of 12 km.
+- Joe hired a taxi from the airport to his house. The cost was €33.  
+  How far from the airport does Joe live?
+
+---
+### Q34
+
+The time taken T, in minutes, to complete my homework consists of 15 minutes to get my books organised and then 40 minutes to do each assignment, a.  
+Write down a formula, making T the subject.
+
+---
+### Q35
+
+The members of the school social committee calculate that the profit, in euro, made on the school disco is given by  
+P = 5T - 900,  
+where T represents the number of tickets sold.  
+Find:  
+- The profit made when 195 tickets are sold  
+- The number of tickets sold if the profit is €870  
+- The number of tickets that must be sold in order to break even (i.e., no profit made)
+
+---
+### Q36
+
+A group of people agree to pay €360 for a day’s rock climbing.  
+Each person pays an equal share.  
+When 4 people pull out, the remaining members of the group each must pay an extra €3.  
+If x is the original number of people, write:  
+- an expression for the original amount each member had agreed to pay.  
+- an expression for the amount each member had to pay when the 4 people pulled out.  
+
+---
+### Q37
+
+150 people attended a school event, and of these, x are teachers.  
+There are 10 more students than teachers and 20 fewer parents than students.  
+How many teachers attended the event?
+
+---
+### Q38
+
+A VIP ticket for a concert costs twice the price of a regular ticket.  
+If the total cost for 5 regular tickets and 3 VIP tickets was €400,  
+write an equation to show this information.  
+Solve the equation to find the cost of a regular ticket.
+
+---
+### Q39
+
+Sam and Jake have the same number of marbles.  
+Sam has three full jars and 12 loose marbles.  
+Jake has four full jars and 4 loose marbles.  
+
+Find the number of marbles in each jar if each jar holds the same number of marbles.
+
+---
+### Q40
+A rectangular garden has an area of 3,600 square meters.  
+The length of the garden is three times its width.  
+
+Find the dimensions of the garden.
+
+
+
+
 ----
-### Q27 Algebraic translation **
+### Algebraic translation **
 
 
 
