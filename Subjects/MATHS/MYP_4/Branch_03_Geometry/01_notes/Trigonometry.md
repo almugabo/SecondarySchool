@@ -1,5 +1,5 @@
 
-## Pythagoras Theorem 
+## 1. Pythagoras Theorem 
 
 - **Pythagoras** a Greek mathematician who liven from 580 BC to 500 BC.
 - Pythagoras Theorem : In a **righ-angled triangle** the square of the **hypothenus** (longest side) is equal to the sum of the squares of the two other sides.
@@ -14,7 +14,7 @@
 
 ---
       
-## Trigonometric functions 
+## 2. Trigonometric functions 
 
 **Remember:** 
 
@@ -60,4 +60,43 @@ trigonometry is use
 - trigonometry can be used to
 - calculate the numerical values of the missing parts of a triangle (or any shape that can be dissected into triangles)  when the values of other parts were given.
 
-- and also in many other fields like astronomy, mapmaking, surveying, and artillery range finding. 
+- and also in many other fields like astronomy, mapmaking, surveying, and artillery range finding.
+
+---
+## 3. Sine Rule 
+
+The **sine rule** is a relationship between the size of an angle in a triangle and the opposing side.
+
+We can use the sine rule to work out a missing angle or side in a triangle when we have **information about an angle and the side opposite it, and another angle and the side opposite it**.
+
+This is the sine rule:
+
+$$
+\frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)}
+$$
+
+or
+
+$$
+\frac{\sin(A)}{a} = \frac{\sin(B)}{b} = \frac{\sin(C)}{c}
+$$
+
+---
+## 4. Cosine Rule 
+
+The **cosine rule** is a formula which can be used to calculate a missing side or missing angle in a triangle.
+
+**This is the cosine rule to find a missing side:**
+
+$$
+a^2 = b^2 + c^2 - 2bc\,\cos(A)
+$$
+
+**This is the rearranged cosine rule to find a missing angle:**
+
+$$
+\cos(A) = \frac{b^2 + c^2 - a^2}{2bc}
+$$
+
+
+
