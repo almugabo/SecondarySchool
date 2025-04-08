@@ -41,3 +41,73 @@
     *   **Analyze:** What *must* be the resultant force acting on the glider? Are the forces balanced or unbalanced? If there is a 0.5 N force to the left, what other horizontal force (if any) must be acting?
 
 ***
+
+-----
+
+### SOLUTIONS 
+
+### Solutions to Practice Exercises: Section 3.2 - Resultant Force
+
+**Exercise 1: Pushing a Desk**
+
+*   **Forces Involved:**
+    *   Your push: 50 N to the right (+50 N)
+    *   Friend's push: 40 N to the right (+40 N)
+    *   Friction: 15 N to the left (-15 N)
+*   **Calculate Resultant Force (F<sub>net</sub>):**
+    *   F<sub>net</sub> = (+50 N) + (+40 N) + (-15 N)
+    *   F<sub>net</sub> = +90 N - 15 N
+    *   F<sub>net</sub> = +75 N
+*   **Magnitude and Direction:** The resultant force is **75 N to the right**.
+*   **Balanced or Unbalanced?** The resultant force is not zero (75 N ≠ 0 N), so the forces are **unbalanced**.
+*   **Consequence:** Because there is a net force to the right, the desk will accelerate to the right (Newton's Second Law).
+
+**Exercise 2: Tug-of-War**
+
+*   **Forces Involved:**
+    *   Team Alpha's pull: 350 N to the left (-350 N)
+    *   Team Bravo's pull: 380 N to the right (+380 N)
+*   **Calculate Resultant Force (F<sub>net</sub>):**
+    *   F<sub>net</sub> = (-350 N) + (+380 N)
+    *   F<sub>net</sub> = +30 N
+*   **Magnitude and Direction:** The resultant force is **30 N to the right**.
+*   **Balanced or Unbalanced?** The resultant force is not zero (30 N ≠ 0 N), so the forces are **unbalanced**.
+*   **Analysis:** Team Bravo is pulling with slightly more force. The net force is in their direction, so the rope (and the teams) will accelerate to the right. Team Bravo is likely winning at this instant.
+
+**Exercise 3: The Skater**
+
+*   **Forces Involved (Horizontal):**
+    *   Forward push from ice/ground (Reaction to skater pushing): 120 N forward (let's say right: +120 N)
+    *   Air resistance and friction: 35 N backward (left: -35 N)
+*   **Calculate Resultant Force (F<sub>net</sub>):**
+    *   F<sub>net</sub> = (+120 N) + (-35 N)
+    *   F<sub>net</sub> = +85 N
+*   **Magnitude and Direction:** The resultant horizontal force is **85 N forward** (in the direction the skater is trying to go).
+*   **Balanced or Unbalanced?** The resultant force is not zero (85 N ≠ 0 N), so the horizontal forces are **unbalanced**.
+*   **Analysis:** Because there is a net forward force, the skater will accelerate forward (speed up or continue speeding up).
+
+**Exercise 4: Lifting a Bucket**
+
+*   **Forces Involved (Vertical):**
+    *   Tension in rope: 60 N upwards (+60 N)
+    *   Weight of bucket (gravity): 45 N downwards (-45 N)
+*   **Calculate Resultant Force (F<sub>net</sub>):**
+    *   F<sub>net</sub> = (+60 N) + (-45 N)
+    *   F<sub>net</sub> = +15 N
+*   **Magnitude and Direction:** The resultant force is **15 N upwards**.
+*   **Balanced or Unbalanced?** The resultant force is not zero (15 N ≠ 0 N), so the forces are **unbalanced**.
+*   **Analysis:** Since there is a net upward force, the bucket will accelerate upwards. If it was initially at rest, it will start moving upwards with increasing speed.
+
+**Exercise 5: Constant Velocity Glider**
+
+*   **Key Information:** The glider moves at **constant velocity**.
+*   **Apply Newton's First Law:** An object moving at constant velocity has zero acceleration.
+*   **Apply Newton's Second Law (F<sub>net</sub> = ma):** If the acceleration (a) is zero, then the net force (F<sub>net</sub>) must also be zero. (F<sub>net</sub> = m * 0 = 0 N).
+*   **Magnitude and Direction:** The resultant force *must* be **0 N**.
+*   **Balanced or Unbalanced?** Because the resultant force is zero, the forces are **balanced**.
+*   **Analysis:** The problem states there is air resistance of 0.5 N to the left. For the forces to be balanced (and the velocity to be constant), there *must* be another force acting on the glider that is exactly 0.5 N to the right to cancel out the air resistance. In a typical idealized physics problem, we might assume air resistance is negligible *if* constant velocity is stated. However, if air resistance *is* stated as 0.5 N *and* velocity is constant, it implies an unmentioned forward force (like a tiny continuous push or tilt in the track) is also present, balancing it perfectly. The most direct answer based *solely* on "constant velocity" is that F<sub>net</sub> = 0 N and forces are balanced.
+
+
+
+
+
