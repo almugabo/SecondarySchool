@@ -18,3 +18,11 @@ There is a link between **vectors** and **pythagoras Theorem**
 ![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/Vector_in_planes.svg)
 
 
+---
+
+## Calculating distance between two points usin vectors 
+
+
+![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/Vector_in_planes_2.svg)
+
+
