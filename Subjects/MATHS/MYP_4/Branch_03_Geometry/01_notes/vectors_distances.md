@@ -20,9 +20,24 @@ There is a link between **vectors** and **pythagoras Theorem**
 
 ---
 
-## Calculating distance between two points usin vectors 
+## Vector addition : Graphically 
 
 
 ![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/Vector_in_planes_2.svg)
+
+
+---
+
+## Graphical vector addition: components, magnitude  and direction
+
+
+![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/Vector_in_planes_3.svg)
+
+---
+
+## Vector addition and Substraction
+
+![Line Plot](https://github.com/almugabo/SecondarySchool/blob/main/Subjects/MATHS/MYP_4/Branch_03_Geometry/01_notes/xCharts/Vector_in_planes_4.svg)
+
 
 
